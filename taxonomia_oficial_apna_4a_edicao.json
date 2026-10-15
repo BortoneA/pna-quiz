@@ -1,0 +1,5240 @@
+{
+  "Cardiologia, Cirurgia Vascular e Cardiovascular": {
+    "area": "Cardiologia, Cirurgia Vascular e Cardiovascular",
+    "total_capitulos": 23,
+    "capitulos": [
+      {
+        "numero": 1,
+        "titulo": "",
+        "subareas": []
+      },
+      {
+        "numero": 2,
+        "titulo": "FARMACOS EM CARDIOLOGIA",
+        "subareas": [
+          {
+            "codigo": "2.1",
+            "titulo": "Pulso venoso jugulai"
+          },
+          {
+            "codigo": "2.2",
+            "titulo": "Pulso arterial"
+          },
+          {
+            "codigo": "2.3",
+            "titulo": "Sons cardiacos"
+          },
+          {
+            "codigo": "2.4",
+            "titulo": "Sopros"
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "titulo": ". Digitalicos",
+        "subareas": [
+          {
+            "codigo": "3.1",
+            "titulo": "Inibidores do eixo renina-angiotensina-aldosterona"
+          },
+          {
+            "codigo": "3.2",
+            "titulo": "Diuréticos"
+          },
+          {
+            "codigo": "3.3",
+            "titulo": "B-bloqueadores"
+          },
+          {
+            "codigo": "3.4",
+            "titulo": "Inibidor da neprilisina/antagonista do recetor da angiotensina II"
+          },
+          {
+            "codigo": "3.5",
+            "titulo": "Bloqueadores dos canais de calcio"
+          },
+          {
+            "codigo": "3.6",
+            "titulo": "Nitratos"
+          },
+          {
+            "codigo": "3.7",
+            "titulo": "Antiarritmico:"
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "titulo": "A",
+        "subareas": []
+      },
+      {
+        "numero": 5,
+        "titulo": "A",
+        "subareas": []
+      },
+      {
+        "numero": 6,
+        "titulo": "A",
+        "subareas": [
+          {
+            "codigo": "6.1",
+            "titulo": "Etiologia da cardiopatia isquémica"
+          },
+          {
+            "codigo": "6.2",
+            "titulo": "Conceitos em cardiopatia isquémica"
+          },
+          {
+            "codigo": "6.3",
+            "titulo": "Angina de peito ........ccceeeees"
+          },
+          {
+            "codigo": "6.4",
+            "titulo": "Enfarte agudo do miocardio (EAM)"
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "titulo": "A",
+        "subareas": []
+      },
+      {
+        "numero": 8,
+        "titulo": "A/B",
+        "subareas": [
+          {
+            "codigo": "8.1",
+            "titulo": "Extrassistoles"
+          },
+          {
+            "codigo": "8.2",
+            "titulo": "Taquicardias. ;"
+          },
+          {
+            "codigo": "8.3",
+            "titulo": "Morte stibita (MS) ..........ccccceccccescssecescseecesescscsecscsesessessscscsascseeecsesescateceeeseee"
+          }
+        ]
+      },
+      {
+        "numero": 9,
+        "titulo": "B",
+        "subareas": [
+          {
+            "codigo": "9.1",
+            "titulo": "Bradicardia sinusal"
+          },
+          {
+            "codigo": "9.2",
+            "titulo": "Bloqueios auriculoventriculares"
+          }
+        ]
+      },
+      {
+        "numero": 10,
+        "titulo": "A",
+        "subareas": [
+          {
+            "codigo": "10.1",
+            "titulo": "Classificagao de pressdo arterial"
+          },
+          {
+            "codigo": "10.2",
+            "titulo": "Etiologia"
+          },
+          {
+            "codigo": "10.3",
+            "titulo": "Repercussdo organica da hipertensao"
+          },
+          {
+            "codigo": "10.4",
+            "titulo": "Diagnéstic"
+          },
+          {
+            "codigo": "10.5",
+            "titulo": "Terapéutica"
+          },
+          {
+            "codigo": "10.6",
+            "titulo": "Urgéncias e emergéncias hipertensivas"
+          },
+          {
+            "codigo": "10.7",
+            "titulo": "Hipertensao resistente"
+          },
+          {
+            "codigo": "10.8",
+            "titulo": "Hipertensdo no doente idoso"
+          }
+        ]
+      },
+      {
+        "numero": 11,
+        "titulo": "A",
+        "subareas": []
+      },
+      {
+        "numero": 12,
+        "titulo": "A",
+        "subareas": [
+          {
+            "codigo": "12.1",
+            "titulo": "Formas clinicas"
+          },
+          {
+            "codigo": "12.2",
+            "titulo": "Fisiopatologia"
+          },
+          {
+            "codigo": "12.3",
+            "titulo": "Manifestagdes clinicas de insuficiéncia cardiaca"
+          },
+          {
+            "codigo": "12.4",
+            "titulo": "Diagnostico"
+          },
+          {
+            "codigo": "12.5",
+            "titulo": "Classificacao funcional"
+          },
+          {
+            "codigo": "12.6",
+            "titulo": "Terapéutica da insuficiéncia cardiaca crénic"
+          },
+          {
+            "codigo": "12.7",
+            "titulo": "Terapéutica da insuficiéncia cardiaca aguda grave:"
+          },
+          {
+            "codigo": "12.8",
+            "titulo": "Dispositivos de assisténcia ventricular"
+          },
+          {
+            "codigo": "12.9",
+            "titulo": "Transplante cardiaco"
+          }
+        ]
+      },
+      {
+        "numero": 13,
+        "titulo": "c",
+        "subareas": []
+      },
+      {
+        "numero": 14,
+        "titulo": "A",
+        "subareas": []
+      },
+      {
+        "numero": 15,
+        "titulo": "B",
+        "subareas": [
+          {
+            "codigo": "15.1",
+            "titulo": "Estenose mitral (EM)"
+          },
+          {
+            "codigo": "15.2",
+            "titulo": "Insuficiéncia mitral"
+          },
+          {
+            "codigo": "15.3",
+            "titulo": "Prolapso mitral"
+          },
+          {
+            "codigo": "15.4",
+            "titulo": "Estenose adrtica"
+          },
+          {
+            "codigo": "15.5",
+            "titulo": "Insuficiéncia adrtica"
+          },
+          {
+            "codigo": "15.6",
+            "titulo": "Outras valvulopatias"
+          },
+          {
+            "codigo": "15.7",
+            "titulo": "Proteses valvulares"
+          },
+          {
+            "codigo": "15.8",
+            "titulo": "Endocardite marantica"
+          },
+          {
+            "codigo": "15.9",
+            "titulo": "Profilaxia da endocardite infecciosa ............cccceseeseesestesesesesestestesneeeeeeneenees"
+          }
+        ]
+      },
+      {
+        "numero": 16,
+        "titulo": "B",
+        "subareas": [
+          {
+            "codigo": "16.1",
+            "titulo": "Pericardite aguda"
+          },
+          {
+            "codigo": "16.2",
+            "titulo": "Miocardite"
+          },
+          {
+            "codigo": "16.3",
+            "titulo": "Tamponamento cardiaco"
+          },
+          {
+            "codigo": "16.4",
+            "titulo": "Pericardite constritiva"
+          }
+        ]
+      },
+      {
+        "numero": 17,
+        "titulo": "A/B",
+        "subareas": [
+          {
+            "codigo": "17.2",
+            "titulo": "Isquemia aguda e crénica dos membros inferiores"
+          },
+          {
+            "codigo": "17.3",
+            "titulo": "Outras patologias arteriais"
+          }
+        ]
+      },
+      {
+        "numero": 18,
+        "titulo": "c",
+        "subareas": [
+          {
+            "codigo": "18.1",
+            "titulo": "HP primaria"
+          },
+          {
+            "codigo": "18.2",
+            "titulo": "HP secundari"
+          }
+        ]
+      },
+      {
+        "numero": 19,
+        "titulo": "A",
+        "subareas": [
+          {
+            "codigo": "19.1",
+            "titulo": "Fisiopatologia"
+          },
+          {
+            "codigo": "19.2",
+            "titulo": "Etiologia"
+          },
+          {
+            "codigo": "19.3",
+            "titulo": "Manifestacdes clinicas"
+          },
+          {
+            "codigo": "19.4",
+            "titulo": "Mecanismos fisiopatolégicos de sincope"
+          },
+          {
+            "codigo": "19.5",
+            "titulo": "Diagnostic"
+          },
+          {
+            "codigo": "19.6",
+            "titulo": "Diagndstico Diferencial"
+          },
+          {
+            "codigo": "19.7",
+            "titulo": "Prognéstico"
+          }
+        ]
+      },
+      {
+        "numero": 20,
+        "titulo": "Mp, 0, , GD. INSUFICIENCIA CARDIACA (AGUDA E CRONICA)",
+        "subareas": [
+          {
+            "codigo": "20.1",
+            "titulo": "Definica"
+          },
+          {
+            "codigo": "20.2",
+            "titulo": "Classificagdo"
+          },
+          {
+            "codigo": "20.3",
+            "titulo": "Choque hipovolémico"
+          },
+          {
+            "codigo": "20.4",
+            "titulo": "Choque obstrutivo extra-cardiaco"
+          },
+          {
+            "codigo": "20.5",
+            "titulo": "Choque cardiogénico"
+          },
+          {
+            "codigo": "20.6",
+            "titulo": "Choque neurogénico"
+          },
+          {
+            "codigo": "20.7",
+            "titulo": "Choque anafilatico e choque séptico"
+          }
+        ]
+      },
+      {
+        "numero": 21,
+        "titulo": "CARDIOPATIAS CONGENITA:",
+        "subareas": [
+          {
+            "codigo": "21.2",
+            "titulo": "Cardiopatias congénitas com shunt E>D"
+          },
+          {
+            "codigo": "21.3",
+            "titulo": "Cardiopatias congénitas com shunt DE"
+          },
+          {
+            "codigo": "21.4",
+            "titulo": "Coartacdo adrtica"
+          },
+          {
+            "codigo": "21.5",
+            "titulo": "Cor triatriatum"
+          },
+          {
+            "codigo": "21.6",
+            "titulo": "Anomalia de Ebstein"
+          }
+        ]
+      },
+      {
+        "numero": 22,
+        "titulo": "wip, 0, P, GD. DOENCAS DAS VEIAS E DOS VASOS LINFATICOS...........sssesssssssscssneecssssessesnseeeennees",
+        "subareas": [
+          {
+            "codigo": "22.2",
+            "titulo": "Exploracao"
+          },
+          {
+            "codigo": "22.3",
+            "titulo": "Patologia das veias"
+          },
+          {
+            "codigo": "22.4",
+            "titulo": "Doencas linfaticas"
+          }
+        ]
+      },
+      {
+        "numero": 23,
+        "titulo": "STUIMMORES CARDUACOS 25st, cnc catas Seeger aactashccntcutaectensentnctecnneziasecSeay",
+        "subareas": []
+      }
+    ]
+  },
+  "Dermatologia": {
+    "area": "Dermatologia",
+    "total_capitulos": 17,
+    "capitulos": [
+      {
+        "numero": 1,
+        "titulo": "Informacoes gerais",
+        "subareas": [
+          {
+            "codigo": "1.1",
+            "titulo": "Estrutura ge:"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "titulo": "B",
+        "subareas": [
+          {
+            "codigo": "2.1",
+            "titulo": "Neoplasias benignas"
+          },
+          {
+            "codigo": "2.2",
+            "titulo": "Lesdes pré-malignas"
+          },
+          {
+            "codigo": "2.3",
+            "titulo": "Neoplasias malignas"
+          },
+          {
+            "codigo": "2.3.1",
+            "titulo": "Cancro cuténeo nao-melanoma (CCNM)"
+          },
+          {
+            "codigo": "2.3.2",
+            "titulo": "M@lAMOMA........ccccccceceeseeesreseesesesseseseseeee"
+          },
+          {
+            "codigo": "2.3.3",
+            "titulo": "Prevencado dos cancros cutaneos (CCNM e melanoma)"
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "titulo": "B",
+        "subareas": [
+          {
+            "codigo": "3.3",
+            "titulo": "Infecdes virais"
+          },
+          {
+            "codigo": "3.3.1",
+            "titulo": "Herpes virus"
+          },
+          {
+            "codigo": "3.3.2",
+            "titulo": "Virus do papiloma humano (HPV)"
+          },
+          {
+            "codigo": "3.3.3",
+            "titulo": "Virus do molusco contagioso"
+          },
+          {
+            "codigo": "3.4",
+            "titulo": "Infestacdes da pele"
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "titulo": "B",
+        "subareas": [
+          {
+            "codigo": "4.2",
+            "titulo": "Dermatite atdpica"
+          },
+          {
+            "codigo": "4.3",
+            "titulo": "Dermatite seborreic"
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "titulo": "B",
+        "subareas": [
+          {
+            "codigo": "5.1",
+            "titulo": "Alergia"
+          },
+          {
+            "codigo": "5.2",
+            "titulo": "Urticaria e angioedema . :"
+          },
+          {
+            "codigo": "5.3",
+            "titulo": "Anafilaxia"
+          },
+          {
+            "codigo": "5.4",
+            "titulo": "Mastocitose"
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "titulo": "DERMATOSES ERITEMATO-DESCAMATIVAS",
+        "subareas": [
+          {
+            "codigo": "6.1",
+            "titulo": "Acne"
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "titulo": "DERMATOSES BOLHOSAS",
+        "subareas": [
+          {
+            "codigo": "7.2",
+            "titulo": "Liquen plano"
+          },
+          {
+            "codigo": "7.3",
+            "titulo": "Pitiriase rosea de Gilbert"
+          },
+          {
+            "codigo": "7.4",
+            "titulo": "Pitiriase rubra pilar"
+          }
+        ]
+      },
+      {
+        "numero": 8,
+        "titulo": "PANICULITE",
+        "subareas": [
+          {
+            "codigo": "8.1",
+            "titulo": "Doencas bolhosas congénitas"
+          },
+          {
+            "codigo": "8.2",
+            "titulo": "Doencas bolhosas adquiridas (imunoldgica"
+          }
+        ]
+      },
+      {
+        "numero": 9,
+        "titulo": "ALOPECIAS",
+        "subareas": [
+          {
+            "codigo": "9.1",
+            "titulo": "Eritema nodoso (EN)"
+          },
+          {
+            "codigo": "9.2",
+            "titulo": "Vasculite nodular"
+          },
+          {
+            "codigo": "9.3",
+            "titulo": "Necrose gorda pancreatica"
+          },
+          {
+            "codigo": "9.4",
+            "titulo": "Poliarterite nodosa"
+          }
+        ]
+      },
+      {
+        "numero": 10,
+        "titulo": "INDICE",
+        "subareas": [
+          {
+            "codigo": "10.1",
+            "titulo": "Alopécia nao cicatricial"
+          },
+          {
+            "codigo": "10.2",
+            "titulo": "Alopécia cicatricial"
+          }
+        ]
+      },
+      {
+        "numero": 11,
+        "titulo": "DISCROMIAS",
+        "subareas": []
+      },
+      {
+        "numero": 12,
+        "titulo": "ALTERACOES DA QUERATINIZAGAO",
+        "subareas": [
+          {
+            "codigo": "12.2",
+            "titulo": "Doenca de Darier"
+          }
+        ]
+      },
+      {
+        "numero": 13,
+        "titulo": "FACOMATOSE",
+        "subareas": []
+      },
+      {
+        "numero": 14,
+        "titulo": "MOXWDERINGA siissscosictasodincssvshssocossessbsuassusvosshoodslosdossivestessansilssasisesseusshsescedvbaed cefssios",
+        "subareas": []
+      },
+      {
+        "numero": 15,
+        "titulo": "Mp, MANIFESTACOES CUTANEAS DE DOENCAS SISTEMICAS",
+        "subareas": [
+          {
+            "codigo": "15.4",
+            "titulo": "Manifestacdes cutaneas de doencas do tecido conjuntivo"
+          }
+        ]
+      },
+      {
+        "numero": 16,
+        "titulo": "Mp, D, P MANIFESTACOES CUTANEAS DE SIDA. .72",
+        "subareas": []
+      },
+      {
+        "numero": 17,
+        "titulo": "(UEMURA fasten essa tossassstasaresstessecancosstbsszosbesonticraceslitetnsnstectussstbbosseetepcicteas 2B",
+        "subareas": []
+      }
+    ]
+  },
+  "Eletrocardiografia": {
+    "area": "Eletrocardiografia",
+    "total_capitulos": 11,
+    "capitulos": [
+      {
+        "numero": 1,
+        "titulo": "REALIZACAO E INTERPRETACAO BASICA DE UM ELETROCARDIOGRAMA",
+        "subareas": [
+          {
+            "codigo": "1.1",
+            "titulo": "O que é um eletrocardiograma?"
+          },
+          {
+            "codigo": "1.2",
+            "titulo": "Derivacées"
+          },
+          {
+            "codigo": "1.3",
+            "titulo": "Como se realiza"
+          },
+          {
+            "codigo": "1.4",
+            "titulo": "— Interpretacao basica e ECG normal"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "titulo": "CARDIOPATIA ISQUEMICA",
+        "subareas": [
+          {
+            "codigo": "2.1",
+            "titulo": "Enfarte agudo do miocardio"
+          },
+          {
+            "codigo": "2.2",
+            "titulo": "Localizagao do enfarte"
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "titulo": "VALVULOPATIAS",
+        "subareas": [
+          {
+            "codigo": "3.1",
+            "titulo": "Estenose Mitral (EM)"
+          },
+          {
+            "codigo": "3.2",
+            "titulo": "— Insuficiéncia Mitral (IM"
+          },
+          {
+            "codigo": "3.3",
+            "titulo": "Prolapso da valvula mitral"
+          },
+          {
+            "codigo": "3.4",
+            "titulo": "_ Estenose Adrtica (EAo)"
+          },
+          {
+            "codigo": "3.5",
+            "titulo": "_ Insuficiéncia Adrtica (IAo}"
+          },
+          {
+            "codigo": "3.6",
+            "titulo": "Estenose trictispide"
+          },
+          {
+            "codigo": "3.7",
+            "titulo": "Insuficiéncia tricuspide"
+          },
+          {
+            "codigo": "3.8",
+            "titulo": "Estenose pulmonar"
+          },
+          {
+            "codigo": "3.9",
+            "titulo": "— Insuficiéncia pulmonar"
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "titulo": "CARDIOPATIAS CONGENITA:",
+        "subareas": []
+      },
+      {
+        "numero": 5,
+        "titulo": "PERTURBACOES ISOLADAS DO RITMO",
+        "subareas": [
+          {
+            "codigo": "5.1",
+            "titulo": "Extrassistoles"
+          },
+          {
+            "codigo": "5.2",
+            "titulo": "Batimentos de escape"
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "titulo": "TAQUICARDIAS",
+        "subareas": [
+          {
+            "codigo": "6.1",
+            "titulo": "Taquicardias de QRS estreito regular"
+          },
+          {
+            "codigo": "6.2",
+            "titulo": "Taquicardias de QRS estreito irregular"
+          },
+          {
+            "codigo": "6.3",
+            "titulo": "Taquicardias de QRS largo"
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "titulo": "BRADICARDIAS",
+        "subareas": [
+          {
+            "codigo": "7.1",
+            "titulo": "Bradicardia sinusa"
+          },
+          {
+            "codigo": "7.2",
+            "titulo": "Pausa sinusal"
+          },
+          {
+            "codigo": "7.3",
+            "titulo": "Bloqueio sinoauricular (BSA)"
+          },
+          {
+            "codigo": "7.4",
+            "titulo": "Bloqueio auriculo-ventricular (BAV)"
+          }
+        ]
+      },
+      {
+        "numero": 8,
+        "titulo": "DOENCAS DO MIOCARDIO",
+        "subareas": [
+          {
+            "codigo": "8.1",
+            "titulo": "Miocardite aguda"
+          },
+          {
+            "codigo": "8.2",
+            "titulo": "Miocardiopatia dilatad"
+          },
+          {
+            "codigo": "8.3",
+            "titulo": "| Miocardiopatia hipertréfica"
+          },
+          {
+            "codigo": "8.4",
+            "titulo": "Miocardiopatia restritiva"
+          }
+        ]
+      },
+      {
+        "numero": 9,
+        "titulo": "DOENCAS DO PERICARDIO",
+        "subareas": [
+          {
+            "codigo": "9.1",
+            "titulo": "Pericardite aguda"
+          },
+          {
+            "codigo": "9.2",
+            "titulo": "Derrame pericardico e tamponamento cardiaco"
+          },
+          {
+            "codigo": "9.3",
+            "titulo": "— Pericardite COMStIitiVa .........s:eecsecsessseesseseseees"
+          }
+        ]
+      },
+      {
+        "numero": 10,
+        "titulo": "PACEMAKERS",
+        "subareas": [
+          {
+            "codigo": "10.1",
+            "titulo": "Modalidades de estimulacao"
+          },
+          {
+            "codigo": "10.2",
+            "titulo": "Pacemakers e ECG"
+          },
+          {
+            "codigo": "10.3",
+            "titulo": "Pacemakers disfuncionai:"
+          }
+        ]
+      },
+      {
+        "numero": 11,
+        "titulo": "ASPETOS DIVERSOS",
+        "subareas": [
+          {
+            "codigo": "11.1",
+            "titulo": "Embolia pulmonar"
+          },
+          {
+            "codigo": "11.2",
+            "titulo": "Alteracdes dos niveis séricos de potassi"
+          },
+          {
+            "codigo": "11.3",
+            "titulo": "Hipotermia"
+          },
+          {
+            "codigo": "11.4",
+            "titulo": "Farmacos (ex: digoxina)"
+          },
+          {
+            "codigo": "11.5",
+            "titulo": "Repolarizacao precoce"
+          },
+          {
+            "codigo": "11.6",
+            "titulo": "Miocardiopatia arritmogénica"
+          },
+          {
+            "codigo": "11.7",
+            "titulo": "Sindrome de Brugada"
+          }
+        ]
+      }
+    ]
+  },
+  "Endocrinologia": {
+    "area": "Endocrinologia",
+    "total_capitulos": 15,
+    "capitulos": [
+      {
+        "numero": 1,
+        "titulo": "INTRODUGAO",
+        "subareas": [
+          {
+            "codigo": "1.2",
+            "titulo": "Fisiologia hormonal"
+          },
+          {
+            "codigo": "1.1",
+            "titulo": "Tipos de hormonas"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "titulo": "wD, 0, GD DISTURBIOS DA HIPOFISE E DO HIPOTALAMO",
+        "subareas": [
+          {
+            "codigo": "2.2",
+            "titulo": "Patologias do hipotalamo"
+          },
+          {
+            "codigo": "2.3",
+            "titulo": "Patologias da hipdfise anterior"
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "titulo": "wp, 0, GD DISTURBIOS DA GLANDULA TIROIDEA",
+        "subareas": [
+          {
+            "codigo": "3.2",
+            "titulo": "Sindrome do doente eutiroideu ou “nonthyroidal illness”"
+          },
+          {
+            "codigo": "3.3",
+            "titulo": "Bdcio simples"
+          },
+          {
+            "codigo": "3.4",
+            "titulo": "Hipotiroidismo"
+          },
+          {
+            "codigo": "3.5",
+            "titulo": "Hipertiroidismo"
+          },
+          {
+            "codigo": "3.6",
+            "titulo": "Tiroidite"
+          },
+          {
+            "codigo": "3.7",
+            "titulo": "Nodulo tiroideu"
+          },
+          {
+            "codigo": "3.8",
+            "titulo": "Carcinoma da tiroide"
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "titulo": "Mp, 0, Gd DISTURBIOS DAS GLANDULAS ADRENAIS",
+        "subareas": [
+          {
+            "codigo": "4.2",
+            "titulo": "Hiperaldosteronismo primario"
+          },
+          {
+            "codigo": "4.3",
+            "titulo": "Feocromocitoma"
+          },
+          {
+            "codigo": "4.4",
+            "titulo": "Incidentaloma adrenal"
+          },
+          {
+            "codigo": "4.5",
+            "titulo": "Insuficiéncia adrenal"
+          },
+          {
+            "codigo": "4.6",
+            "titulo": "Hiperandrogenismo de origem adrenal"
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "titulo": "DIABETES MELLITUS ...........csssscssssssesssssccssssscsssvsessnssccsssvsessnuscsssnesecssnecsssnesesssnecesess",
+        "subareas": [
+          {
+            "codigo": "5.2",
+            "titulo": "IMSUIIMA 2... eseseeesestesseeseesenee"
+          },
+          {
+            "codigo": "5.3",
+            "titulo": "Antidiabéticos nao insulinicos"
+          },
+          {
+            "codigo": "5.4",
+            "titulo": "Outros tratamentos"
+          },
+          {
+            "codigo": "5.5",
+            "titulo": "Autocontrole e monitorizacéo da diabetes"
+          },
+          {
+            "codigo": "5.6",
+            "titulo": "Complicacdes metabdlicas agudas da diabetes"
+          },
+          {
+            "codigo": "5.7",
+            "titulo": "Complicacdes crénicas da diabetes"
+          },
+          {
+            "codigo": "5.8",
+            "titulo": "Outras complicagdes da diabetes"
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "titulo": "HIPOGLICEMIA .......ccsessessessessessssnssessesnesseenssnesssnsseessenesseenssnsseensenesnesnsseaseneeneeneenes",
+        "subareas": []
+      },
+      {
+        "numero": 7,
+        "titulo": "wip, , G2. DOENCAS DAS GLANDULAS PARATIROIDEIAS E HOMEOSTASE DO CALCIO",
+        "subareas": [
+          {
+            "codigo": "7.2",
+            "titulo": "Hipercalcemia"
+          },
+          {
+            "codigo": "7.3",
+            "titulo": "Hiperparatiroidismo primario"
+          },
+          {
+            "codigo": "7.4",
+            "titulo": "Hipocalcemia «0.0.0"
+          },
+          {
+            "codigo": "7.5",
+            "titulo": "Pseudo-hipoparatiroidismo"
+          }
+        ]
+      },
+      {
+        "numero": 8,
+        "titulo": "AVALIACAO NUTRICIONAL, DESNUTRICAO E OBESIDADE .............sesssessseessseeeseee",
+        "subareas": []
+      },
+      {
+        "numero": 9,
+        "titulo": "> DEFICIENCIA E EXCESSO DE VITAMINAS E OLIGOMINERAIS ...........-..sesseseeeessees",
+        "subareas": [
+          {
+            "codigo": "9.2",
+            "titulo": "Oligominerais"
+          }
+        ]
+      },
+      {
+        "numero": 10,
+        "titulo": "ip, D, P, GD DISLIPIDEMIAS E DISTURBIOS DO METABOLISMO",
+        "subareas": [
+          {
+            "codigo": "10.2",
+            "titulo": "Hiperlipoprotei"
+          }
+        ]
+      },
+      {
+        "numero": 11,
+        "titulo": "",
+        "subareas": []
+      },
+      {
+        "numero": 12,
+        "titulo": "A/C",
+        "subareas": [
+          {
+            "codigo": "12.1",
+            "titulo": "Osteoporose"
+          },
+          {
+            "codigo": "12.2",
+            "titulo": "Osteomalacia-raquitismo"
+          },
+          {
+            "codigo": "12.3",
+            "titulo": "Doenga de Paget"
+          }
+        ]
+      },
+      {
+        "numero": 13,
+        "titulo": "B",
+        "subareas": [
+          {
+            "codigo": "13.1",
+            "titulo": "Disfuncao sexual masculina"
+          },
+          {
+            "codigo": "13.2",
+            "titulo": "Disfuncao sexual feminina"
+          }
+        ]
+      },
+      {
+        "numero": 14,
+        "titulo": "c",
+        "subareas": [
+          {
+            "codigo": "14.1",
+            "titulo": "Gastrinoma"
+          },
+          {
+            "codigo": "14.2",
+            "titulo": "Insulinoma"
+          },
+          {
+            "codigo": "14.3",
+            "titulo": "Glucagonoma"
+          },
+          {
+            "codigo": "14.4",
+            "titulo": "Somatostatinom"
+          },
+          {
+            "codigo": "14.5",
+            "titulo": "Vipoma"
+          },
+          {
+            "codigo": "14.6",
+            "titulo": "Tumor carcinoide"
+          }
+        ]
+      },
+      {
+        "numero": 15,
+        "titulo": "C o",
+        "subareas": [
+          {
+            "codigo": "15.2",
+            "titulo": "Sindrome poliglandular autoimune (SPA)"
+          }
+        ]
+      }
+    ]
+  },
+  "Gastroenterologia e Cirurgia Geral": {
+    "area": "Gastroenterologia e Cirurgia Geral",
+    "total_capitulos": 49,
+    "capitulos": [
+      {
+        "numero": 1,
+        "titulo": "ANATOMIA E FISIOLOGIA HEPATICA",
+        "subareas": [
+          {
+            "codigo": "1.2",
+            "titulo": "Fisiologia"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "titulo": "> EXAMES DE DIAGNOSTICO",
+        "subareas": []
+      },
+      {
+        "numero": 3,
+        "titulo": "wp, , G>. ABORDAGEM AO DOENTE COM ICTERICIA: HIPERBILIRRUBINEMIA E COLESTASE",
+        "subareas": [
+          {
+            "codigo": "3.2",
+            "titulo": "Hiperbilirrubinemia nao conjugada"
+          },
+          {
+            "codigo": "3.3",
+            "titulo": "Hiperbilirrubinema conjugada"
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "titulo": "i, 0, P. Gd. HEPATITE VIRAL AGUDA",
+        "subareas": []
+      },
+      {
+        "numero": 5,
+        "titulo": "io, 0, Pp, GD. HEPATITE CRONICA",
+        "subareas": []
+      },
+      {
+        "numero": 6,
+        "titulo": "0, P, GD.-_-HEPATITE AUTOIMUNE (HAI)...........sessssessssssssesconsessuecsssccssecessecesscsssecsssessnecesseceneces",
+        "subareas": []
+      },
+      {
+        "numero": 7,
+        "titulo": "iD, 0, P, GD. INSUFICIENCIA HEPATICA AGUDA............sessssssssssssssscsseccsneccssccenecsuecsssecsnecesneceneees",
+        "subareas": []
+      },
+      {
+        "numero": 9,
+        "titulo": "mp, 0, GD DOENCA HEPATICA GORDUROSA NAO ALCOOLICA",
+        "subareas": []
+      },
+      {
+        "numero": 10,
+        "titulo": "wip, 0, P, GD. OUTRAS CAUSAS DE CIRROSE",
+        "subareas": [
+          {
+            "codigo": "10.2",
+            "titulo": "Colangite esclerosante primaria (CEP)"
+          },
+          {
+            "codigo": "10.3",
+            "titulo": "Sindrome de Budd-Chiari"
+          },
+          {
+            "codigo": "10.4",
+            "titulo": "Cirrose cardiaca"
+          }
+        ]
+      },
+      {
+        "numero": 11,
+        "titulo": "io, 0, p, Gd. CIRROSE HEPATICA E SUAS COMPLICACOES",
+        "subareas": []
+      },
+      {
+        "numero": 13,
+        "titulo": "Mp, > HEPATOPATIAS METABOLICAS E INFILTRATIVAS",
+        "subareas": [
+          {
+            "codigo": "13.2",
+            "titulo": "Doenca de Wilson"
+          },
+          {
+            "codigo": "13.3",
+            "titulo": "Défice de alfa- ‘-antitripsina"
+          },
+          {
+            "codigo": "13.4",
+            "titulo": "Porfiria hepatica"
+          }
+        ]
+      },
+      {
+        "numero": 14,
+        "titulo": "ABCESSOS E TUMORES HEPATICOS",
+        "subareas": [
+          {
+            "codigo": "14.2",
+            "titulo": "Tumores hepaticos benignos"
+          },
+          {
+            "codigo": "14.3",
+            "titulo": "Tumores hepaticos malignos"
+          }
+        ]
+      },
+      {
+        "numero": 15,
+        "titulo": "Mp, D, GD. PATOLOGIA HEPATICA",
+        "subareas": [
+          {
+            "codigo": "15.2",
+            "titulo": "O transplante de figado"
+          }
+        ]
+      },
+      {
+        "numero": 16,
+        "titulo": "Mp, 0, GD DOENCAS DA VESICULA BILIAR E DAS VIAS BILIARES",
+        "subareas": [
+          {
+            "codigo": "16.2",
+            "titulo": "Colica biliar"
+          },
+          {
+            "codigo": "16.3",
+            "titulo": "Colecistite"
+          },
+          {
+            "codigo": "16.3.1",
+            "titulo": "Outras cole"
+          },
+          {
+            "codigo": "16.3.2",
+            "titulo": "Complicagdes das colecistites"
+          },
+          {
+            "codigo": "16.4",
+            "titulo": "Pseudo-pdlipos vesiculares"
+          },
+          {
+            "codigo": "16.5",
+            "titulo": "Coledocolitiase"
+          },
+          {
+            "codigo": "16.6",
+            "titulo": "Colangite"
+          },
+          {
+            "codigo": "16.7",
+            "titulo": "Outras doencas das vias biliares"
+          },
+          {
+            "codigo": "16.8",
+            "titulo": "Colangiocarcinoma"
+          }
+        ]
+      },
+      {
+        "numero": 17,
+        "titulo": "PANCREATITE AGUDA",
+        "subareas": [
+          {
+            "codigo": "17.1",
+            "titulo": "Anatomia do pancreas"
+          },
+          {
+            "codigo": "17.2",
+            "titulo": "Fisiologia do pancreas exécrino"
+          },
+          {
+            "codigo": "17.3",
+            "titulo": "Exames de diagnostico do pancreas"
+          }
+        ]
+      },
+      {
+        "numero": 18,
+        "titulo": "i, 0, P, GD",
+        "subareas": [
+          {
+            "codigo": "18.1",
+            "titulo": "Sinais clinicos"
+          },
+          {
+            "codigo": "18.2",
+            "titulo": "Diagndstico"
+          },
+          {
+            "codigo": "18.3",
+            "titulo": "Classificag¢éo das pancreatites"
+          },
+          {
+            "codigo": "18.4",
+            "titulo": "Prognostico"
+          },
+          {
+            "codigo": "18.5",
+            "titulo": "Tratamento"
+          },
+          {
+            "codigo": "18.6",
+            "titulo": "Complicacdes"
+          }
+        ]
+      },
+      {
+        "numero": 19,
+        "titulo": "in, 0, P, GD",
+        "subareas": [
+          {
+            "codigo": "19.1",
+            "titulo": "Pancreatite autoimui"
+          }
+        ]
+      },
+      {
+        "numero": 20,
+        "titulo": "Mp, D",
+        "subareas": [
+          {
+            "codigo": "20.1",
+            "titulo": "Lesdes quisticas do pancreas"
+          },
+          {
+            "codigo": "20.2",
+            "titulo": "Carcinoma do pancreas"
+          },
+          {
+            "codigo": "20.3",
+            "titulo": "Tumores neuroendécrinos (TNE) pancreaticos"
+          }
+        ]
+      },
+      {
+        "numero": 21,
+        "titulo": "DOENCA INFLAMATORIA DO ESOFAGO.........ssssssssessessssseesesssssssseeessssnseeeseesssnesseens",
+        "subareas": [
+          {
+            "codigo": "21.1",
+            "titulo": "Anatomia e fisiologia"
+          }
+        ]
+      },
+      {
+        "numero": 22,
+        "titulo": "B",
+        "subareas": [
+          {
+            "codigo": "22.1",
+            "titulo": "Doenga do refluxo gastroesofagico"
+          },
+          {
+            "codigo": "22.2",
+            "titulo": "Esofagite devido a substancias causticas"
+          },
+          {
+            "codigo": "22.3",
+            "titulo": "Esofagite eosinofilica"
+          }
+        ]
+      },
+      {
+        "numero": 23,
+        "titulo": "A/B",
+        "subareas": [
+          {
+            "codigo": "23.1",
+            "titulo": "Disfagia"
+          }
+        ]
+      },
+      {
+        "numero": 24,
+        "titulo": "A/B",
+        "subareas": [
+          {
+            "codigo": "24.1",
+            "titulo": "Diverticulos esofagicos"
+          },
+          {
+            "codigo": "24.2",
+            "titulo": "Membranas e esfincteres"
+          },
+          {
+            "codigo": "24.3",
+            "titulo": "Hérnia do hiato"
+          },
+          {
+            "codigo": "24.4",
+            "titulo": "Lesdes mecanicas do esdfago"
+          }
+        ]
+      },
+      {
+        "numero": 25,
+        "titulo": "Mp, D",
+        "subareas": []
+      },
+      {
+        "numero": 26,
+        "titulo": "ABORDAGEM AO DOENTE COM HEMORRAGIA DIGESTIVA",
+        "subareas": [
+          {
+            "codigo": "26.1",
+            "titulo": "Anatomia gastrica"
+          },
+          {
+            "codigo": "26.2",
+            "titulo": "Fisiologia gastrica em relac"
+          },
+          {
+            "codigo": "26.3",
+            "titulo": "Vascularizacao arterial do abdomen"
+          },
+          {
+            "codigo": "26.4",
+            "titulo": "Abordagem ao doente com nauseas, vomitos e dispepsia"
+          },
+          {
+            "codigo": "26.5",
+            "titulo": "O reflexo do vOmito .............000+ . :"
+          }
+        ]
+      },
+      {
+        "numero": 27,
+        "titulo": "— ip, 0, GD",
+        "subareas": [
+          {
+            "codigo": "27.1",
+            "titulo": "Hemorragia digestiva alta nao varicosa"
+          },
+          {
+            "codigo": "27.2",
+            "titulo": "Hemorragia Digestiva Baixa"
+          }
+        ]
+      },
+      {
+        "numero": 28,
+        "titulo": "— io, 0, GD",
+        "subareas": [
+          {
+            "codigo": "28.1",
+            "titulo": "AINEs"
+          },
+          {
+            "codigo": "28.2",
+            "titulo": "Quadro clinico"
+          },
+          {
+            "codigo": "28.3",
+            "titulo": "Diagndstico de ulcera péptica"
+          },
+          {
+            "codigo": "28.4",
+            "titulo": "Tratamento médico"
+          },
+          {
+            "codigo": "28.5",
+            "titulo": "Tratamento cirtirgico da ulcera péptica"
+          },
+          {
+            "codigo": "28.6",
+            "titulo": "Complicacées da Ulcera péptica"
+          },
+          {
+            "codigo": "28.7",
+            "titulo": "Complicagdes pés-gastrectomia"
+          }
+        ]
+      },
+      {
+        "numero": 29,
+        "titulo": "B",
+        "subareas": []
+      },
+      {
+        "numero": 30,
+        "titulo": "B",
+        "subareas": []
+      },
+      {
+        "numero": 31,
+        "titulo": "B",
+        "subareas": [
+          {
+            "codigo": "31.1",
+            "titulo": "Gastrite aguda"
+          },
+          {
+            "codigo": "31.2",
+            "titulo": "Gastrite cronica"
+          }
+        ]
+      },
+      {
+        "numero": 32,
+        "titulo": "B",
+        "subareas": []
+      },
+      {
+        "numero": 33,
+        "titulo": "A",
+        "subareas": [
+          {
+            "codigo": "33.1",
+            "titulo": "Tumores gastricos benignos"
+          },
+          {
+            "codigo": "33.2",
+            "titulo": "Tumores gastricos malignos"
+          },
+          {
+            "codigo": "33.3",
+            "titulo": "GIST: Tumores do estroma g:"
+          },
+          {
+            "codigo": "33.4",
+            "titulo": "Cirurgia bariatrica"
+          },
+          {
+            "codigo": "33.5",
+            "titulo": "Perfuracdes gastricas"
+          }
+        ]
+      },
+      {
+        "numero": 34,
+        "titulo": "DISTURBIOS DE ABSORCAO",
+        "subareas": [
+          {
+            "codigo": "34.1",
+            "titulo": "Anatomia"
+          },
+          {
+            "codigo": "34.2",
+            "titulo": "Fisiologia"
+          },
+          {
+            "codigo": "34.3",
+            "titulo": "Exames complementares"
+          }
+        ]
+      },
+      {
+        "numero": 35,
+        "titulo": "A/B",
+        "subareas": [
+          {
+            "codigo": "35.1",
+            "titulo": "Abordagem ao doente com emagrecimento involuntario"
+          },
+          {
+            "codigo": "35.2",
+            "titulo": "Doenca Celiaca .......ceccceceseeseeeeeseeeseeeereees"
+          },
+          {
+            "codigo": "35.3",
+            "titulo": "Sindrome do sobrecrescimento bacteriano"
+          },
+          {
+            "codigo": "35.4",
+            "titulo": "Insuficiéncia intestinal (sindrome do intestino curto)"
+          },
+          {
+            "codigo": "35.5",
+            "titulo": "Doenca de Whipple"
+          },
+          {
+            "codigo": "35.6",
+            "titulo": "Intolerancia a lactose"
+          },
+          {
+            "codigo": "35.7",
+            "titulo": "Sprue colagenoso"
+          },
+          {
+            "codigo": "35.8",
+            "titulo": "Abordagem ao doente com obstipacao intestinal"
+          }
+        ]
+      },
+      {
+        "numero": 36,
+        "titulo": "A",
+        "subareas": [
+          {
+            "codigo": "36.1",
+            "titulo": "Diarreia aguda... sess"
+          }
+        ]
+      },
+      {
+        "numero": 37,
+        "titulo": "B",
+        "subareas": []
+      },
+      {
+        "numero": 38,
+        "titulo": "B",
+        "subareas": []
+      },
+      {
+        "numero": 39,
+        "titulo": "A",
+        "subareas": [
+          {
+            "codigo": "39.1",
+            "titulo": "Apendicite aguda"
+          },
+          {
+            "codigo": "39.2",
+            "titulo": "Doenca diverticular"
+          },
+          {
+            "codigo": "39.3",
+            "titulo": "Obstrucao intestinal"
+          },
+          {
+            "codigo": "39.4",
+            "titulo": "VOIOS «0.0"
+          },
+          {
+            "codigo": "39.5",
+            "titulo": "Patologia vascular: isquemia mesentérica"
+          }
+        ]
+      },
+      {
+        "numero": 40,
+        "titulo": "A",
+        "subareas": [
+          {
+            "codigo": "40.1",
+            "titulo": "Pdlipos gastrointestinais............:cccecseeeseeeeeeeeteeeeneeeeeeeee"
+          },
+          {
+            "codigo": "40.2",
+            "titulo": "Pdlipos do célon e sindromes de polipose multipla do célon e reto"
+          },
+          {
+            "codigo": "40.3",
+            "titulo": "Neoplasias do cdlon hereditario nao associado a polipose (sindrome de"
+          },
+          {
+            "codigo": "40.4",
+            "titulo": "Neoplasias do colon e reto"
+          },
+          {
+            "codigo": "40.5",
+            "titulo": "Tumores do intestino delgado"
+          }
+        ]
+      },
+      {
+        "numero": 41,
+        "titulo": "A",
+        "subareas": [
+          {
+            "codigo": "41.1",
+            "titulo": "Fissuras anais"
+          },
+          {
+            "codigo": "41.2",
+            "titulo": "Hemorrdidas"
+          },
+          {
+            "codigo": "41.4",
+            "titulo": "Fistula anorretal"
+          },
+          {
+            "codigo": "41.5",
+            "titulo": "Prolapso retal"
+          },
+          {
+            "codigo": "41.6",
+            "titulo": "Incontinéncia fecal"
+          },
+          {
+            "codigo": "41.7",
+            "titulo": "Neoplasia anal"
+          }
+        ]
+      },
+      {
+        "numero": 42,
+        "titulo": "(cll",
+        "subareas": [
+          {
+            "codigo": "42.1",
+            "titulo": "Limites da cavidade abdomina"
+          },
+          {
+            "codigo": "42.2",
+            "titulo": "Subdivisdo da parede abdominal"
+          },
+          {
+            "codigo": "42.3",
+            "titulo": "Vascularizacao"
+          },
+          {
+            "codigo": "42.4",
+            "titulo": "Peritoneu"
+          }
+        ]
+      },
+      {
+        "numero": 43,
+        "titulo": "A",
+        "subareas": []
+      },
+      {
+        "numero": 44,
+        "titulo": "A",
+        "subareas": [
+          {
+            "codigo": "44.1",
+            "titulo": "Anatomia da parede abdominal"
+          },
+          {
+            "codigo": "44.2",
+            "titulo": "HOIMiaS 0. cccccceeeeeteteeeeeeeeees"
+          },
+          {
+            "codigo": "44.3",
+            "titulo": "Hematoma da bainha dos musculos retos"
+          },
+          {
+            "codigo": "44.4",
+            "titulo": "Fibromatose"
+          }
+        ]
+      },
+      {
+        "numero": 45,
+        "titulo": "",
+        "subareas": []
+      },
+      {
+        "numero": 46,
+        "titulo": "",
+        "subareas": []
+      },
+      {
+        "numero": 47,
+        "titulo": "TRAUMATISMO ABDOMINAL",
+        "subareas": [
+          {
+            "codigo": "47.1",
+            "titulo": "Complicacées da ferida operatoria"
+          },
+          {
+            "codigo": "47.2",
+            "titulo": "Febre pds-operatoria"
+          }
+        ]
+      },
+      {
+        "numero": 48,
+        "titulo": "A",
+        "subareas": [
+          {
+            "codigo": "48.1",
+            "titulo": "Abordagem ao doente com trauma abdominal"
+          },
+          {
+            "codigo": "48.2",
+            "titulo": "\\ndicacgdes para laparotomia explorador:"
+          },
+          {
+            "codigo": "48.3",
+            "titulo": "Tratamento cirtirgico"
+          },
+          {
+            "codigo": "48.4",
+            "titulo": "Hematoma retroperitoneal"
+          }
+        ]
+      },
+      {
+        "numero": 49,
+        "titulo": "A",
+        "subareas": [
+          {
+            "codigo": "49.1",
+            "titulo": "Anatomia e diagnostico imagioldgico"
+          },
+          {
+            "codigo": "49.2",
+            "titulo": "Transtornos inflamatorios e funcionai"
+          },
+          {
+            "codigo": "49.3",
+            "titulo": "Lesdes benignas"
+          },
+          {
+            "codigo": "49.4",
+            "titulo": "Carcinoma da mama"
+          }
+        ]
+      },
+      {
+        "numero": 50,
+        "titulo": "",
+        "subareas": []
+      },
+      {
+        "numero": 51,
+        "titulo": "VALORES NORMAIS EM GASTROENTEROLOGIA",
+        "subareas": [
+          {
+            "codigo": "51.1",
+            "titulo": "Fatores prognésticos"
+          },
+          {
+            "codigo": "51.2",
+            "titulo": "Queimaduras por corrente elétrica"
+          },
+          {
+            "codigo": "51.3",
+            "titulo": "Profundidade das queimaduras"
+          },
+          {
+            "codigo": "51.4",
+            "titulo": "Complicacdes e tratamento das vi"
+          }
+        ]
+      }
+    ]
+  },
+  "Ginecologia e Obstetrícia": {
+    "area": "Ginecologia e Obstetrícia",
+    "total_capitulos": 32,
+    "capitulos": [
+      {
+        "numero": 1,
+        "titulo": "OBSTETRICIA",
+        "subareas": []
+      },
+      {
+        "numero": 2,
+        "titulo": "JA",
+        "subareas": []
+      },
+      {
+        "numero": 3,
+        "titulo": "",
+        "subareas": []
+      },
+      {
+        "numero": 4,
+        "titulo": "Cuidados pré-natais 1 0 1",
+        "subareas": []
+      },
+      {
+        "numero": 5,
+        "titulo": "JA",
+        "subareas": []
+      },
+      {
+        "numero": 6,
+        "titulo": "",
+        "subareas": []
+      },
+      {
+        "numero": 7,
+        "titulo": "A",
+        "subareas": []
+      },
+      {
+        "numero": 8,
+        "titulo": "B",
+        "subareas": []
+      },
+      {
+        "numero": 9,
+        "titulo": "s",
+        "subareas": []
+      },
+      {
+        "numero": 10,
+        "titulo": "JA",
+        "subareas": [
+          {
+            "codigo": "10.4",
+            "titulo": "Cardiopatias € QravideZ ............csssesssseeesererseesscssscscscsesssesesesesrevereveseneeseeessseses"
+          },
+          {
+            "codigo": "10.5",
+            "titulo": "Disturbios gastrointestinais"
+          },
+          {
+            "codigo": "10.6",
+            "titulo": "Disturbios respiratorios"
+          },
+          {
+            "codigo": "10.7",
+            "titulo": "Disturbios hematoldgicos e imunoldgico:"
+          },
+          {
+            "codigo": "10.8",
+            "titulo": "Infecdes durante a gestacao"
+          },
+          {
+            "codigo": "10.9",
+            "titulo": "Disturbios neuroldgicos e psiquiatricos"
+          },
+          {
+            "codigo": "10.10",
+            "titulo": "Complicacées cirtirgicas"
+          }
+        ]
+      },
+      {
+        "numero": 11,
+        "titulo": "ASSISTENCIA AO PARTO NORMAL E ANORMAL",
+        "subareas": [
+          {
+            "codigo": "11.3",
+            "titulo": "Parto instrumentado"
+          },
+          {
+            "codigo": "11.4",
+            "titulo": "Parto em apresentacao pélvica"
+          }
+        ]
+      },
+      {
+        "numero": 12,
+        "titulo": "in, 0, P, GD. PARTO PRE-TERMO",
+        "subareas": [
+          {
+            "codigo": "12.2",
+            "titulo": "Rutura prematura de membranas"
+          },
+          {
+            "codigo": "12.3",
+            "titulo": "Corioamniotite"
+          }
+        ]
+      },
+      {
+        "numero": 13,
+        "titulo": "GRAVIDEZ PROLONGADA",
+        "subareas": []
+      },
+      {
+        "numero": 14,
+        "titulo": "io, 0, Pp, GD. HEMORRAGIA NO POS-PARTO",
+        "subareas": [
+          {
+            "codigo": "14.2",
+            "titulo": "Inversao uterina"
+          }
+        ]
+      },
+      {
+        "numero": 15,
+        "titulo": "CUIDADOS POS-PARTO",
+        "subareas": [
+          {
+            "codigo": "15.2",
+            "titulo": "Infecao pds-parto e puerperal (febre puerperal)"
+          },
+          {
+            "codigo": "15.3",
+            "titulo": "Inibicdo da lactacd0"
+          },
+          {
+            "codigo": "15.4",
+            "titulo": "Outros problemas do puerpério"
+          }
+        ]
+      },
+      {
+        "numero": 16,
+        "titulo": "ALTERACOES DOS ANEXOS FETAIS",
+        "subareas": [
+          {
+            "codigo": "16.2",
+            "titulo": "Alteracdes na formacao da placenta"
+          },
+          {
+            "codigo": "16.3",
+            "titulo": "Patologia do liquido amnidtico"
+          }
+        ]
+      },
+      {
+        "numero": 17,
+        "titulo": "Ds GRAVID EE eI 2a Aisak casct camaranciticatdbasctetansacnenthcadssbeenncboasabecsahivassvassreaaied",
+        "subareas": []
+      },
+      {
+        "numero": 18,
+        "titulo": "IE PRC IP TD PREV OPE ce cendtcte ct erastisindsséetbatoibaxieiatsebiisvesseskesasearisntuscshensniedied",
+        "subareas": [
+          {
+            "codigo": "18.2",
+            "titulo": "Radiaca"
+          },
+          {
+            "codigo": "18.3",
+            "titulo": "Prevencao de defeitos congénitos e acompanhamento da gravide:"
+          }
+        ]
+      },
+      {
+        "numero": 19,
+        "titulo": "ANATOMIA E CICLO MENSTRUAL",
+        "subareas": [
+          {
+            "codigo": "19.2",
+            "titulo": "Hormonas do eixo hipotdlamo-hipofise-gonadas"
+          },
+          {
+            "codigo": "19.3",
+            "titulo": "Ciclo ovarico"
+          },
+          {
+            "codigo": "19.4",
+            "titulo": "Ciclo menstrual"
+          },
+          {
+            "codigo": "19.5",
+            "titulo": "Ciclo endometrial"
+          },
+          {
+            "codigo": "19.6",
+            "titulo": "Fisiologia do ciclo menstrual"
+          }
+        ]
+      },
+      {
+        "numero": 20,
+        "titulo": "PREVENCAO PRIMARIA E SECUNDARIA EM GINECOLOGIA............ssssscssssessssseeens",
+        "subareas": []
+      },
+      {
+        "numero": 21,
+        "titulo": "Mp, 0, GD PLANEAMENTO FAMILIAR",
+        "subareas": [
+          {
+            "codigo": "21.2",
+            "titulo": "Contracecgao de emergéncia"
+          },
+          {
+            "codigo": "21.3",
+            "titulo": "Contracecdo no pos-parto"
+          }
+        ]
+      },
+      {
+        "numero": 22,
+        "titulo": "mp, 0, GD AMENORREIA",
+        "subareas": [
+          {
+            "codigo": "22.2",
+            "titulo": "Amenorreia secundaria"
+          }
+        ]
+      },
+      {
+        "numero": 23,
+        "titulo": "Mp, 0, GD HEMORRAGIA UTERINA ANOMALA (HUA)",
+        "subareas": [
+          {
+            "codigo": "23.2",
+            "titulo": "Miomas uterinos"
+          },
+          {
+            "codigo": "23.3",
+            "titulo": "Pdlipo endometrial"
+          },
+          {
+            "codigo": "23.4",
+            "titulo": "Hiperplasia endometrial"
+          },
+          {
+            "codigo": "23.5",
+            "titulo": "Carcinoma do endométrio"
+          }
+        ]
+      },
+      {
+        "numero": 24,
+        "titulo": "mo, P,0 INFECOES GENITAIS",
+        "subareas": [
+          {
+            "codigo": "24.2",
+            "titulo": "Doenca inflamatoria pélvica (DIP)"
+          },
+          {
+            "codigo": "24.3",
+            "titulo": "Tuberculose genital"
+          },
+          {
+            "codigo": "24.4",
+            "titulo": "Bartholinite"
+          }
+        ]
+      },
+      {
+        "numero": 25,
+        "titulo": "id, P, 0, GD. PATOLOGIA DO PAVIMENTO PELVICO",
+        "subareas": [
+          {
+            "codigo": "25.2",
+            "titulo": "Incontinéncia urinaria"
+          }
+        ]
+      },
+      {
+        "numero": 26,
+        "titulo": "Mp, 0 DISMENORREIA E DOR PELVICA CRONICA",
+        "subareas": [
+          {
+            "codigo": "26.2",
+            "titulo": "Dor pélvica crénica"
+          }
+        ]
+      },
+      {
+        "numero": 27,
+        "titulo": "SINDROME DO OVARIO POLIQUISTICO (SOP)........ssssssssssssssssssneesssssesssnscesssneessens",
+        "subareas": []
+      },
+      {
+        "numero": 28,
+        "titulo": "DOENCAS VULVARES E VAGINAIS",
+        "subareas": [
+          {
+            "codigo": "28.2",
+            "titulo": "Neoplasia intraepitelial vulvar"
+          },
+          {
+            "codigo": "28.3",
+            "titulo": "Tumor da vulva"
+          },
+          {
+            "codigo": "28.4",
+            "titulo": "Doencas vaginais"
+          }
+        ]
+      },
+      {
+        "numero": 29,
+        "titulo": "PATOLOGIA DO COLO DO UTERO",
+        "subareas": [
+          {
+            "codigo": "29.3",
+            "titulo": "Carcinoma invasivo do colo do utero"
+          }
+        ]
+      },
+      {
+        "numero": 30,
+        "titulo": "CANCRO DO OVARIO",
+        "subareas": []
+      },
+      {
+        "numero": 31,
+        "titulo": "INFERTILIDADE.....ssssssssssccsccccsccsssssssssssscscscecccecsssssssusssssseeeceseeceesssnunssssssseeseeceesessssss",
+        "subareas": []
+      },
+      {
+        "numero": 32,
+        "titulo": "— MD, D, P, GD MENOPAUSA.....ssscssccsssssssscsssssssssesssssssesesssssnsesesssssnuseeessnnseceesessnnueessessnneeessessnneseees",
+        "subareas": []
+      }
+    ]
+  },
+  "Hematologia": {
+    "area": "Hematologia",
+    "total_capitulos": 25,
+    "capitulos": [
+      {
+        "numero": 1,
+        "titulo": "Mp, 0, Gd ABORDAGEM AO DOENTE COM ALTERACOES HEMATOLOGICAS .. eat",
+        "subareas": [
+          {
+            "codigo": "1.2",
+            "titulo": "Leucocitose"
+          },
+          {
+            "codigo": "1.3",
+            "titulo": "Leucopenia «13"
+          },
+          {
+            "codigo": "1.4",
+            "titulo": "Trombocitose e trombocitopenia «13"
+          },
+          {
+            "codigo": "1.5",
+            "titulo": "Alteragdes hematoldgicas em contextos patoldgicos particulares .. 2"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "titulo": "ip, 0, p, GD. ANEMIAS. INFORMACOES GERAIS",
+        "subareas": []
+      },
+      {
+        "numero": 3,
+        "titulo": "ip, 0, P, GD. ANEMIA FERROPENICA",
+        "subareas": []
+      },
+      {
+        "numero": 4,
+        "titulo": "ip, 0, P, GD. ANEMIA SIDEROBLASTICA",
+        "subareas": []
+      },
+      {
+        "numero": 5,
+        "titulo": "— Mid, 0, P, GD. ANEMIA DE ESTADOS INFLAMATORIOS ........sssssssssssssssssssssssseesssssssseeseeesssuseeseesense",
+        "subareas": []
+      },
+      {
+        "numero": 6,
+        "titulo": "— MD, D, P, GD ANEMIA MIELOFTISICA .........sssssccssssccssssccsssssecsssscsssnssecssseecssnsccsssseessnusccessneesenssessss",
+        "subareas": []
+      },
+      {
+        "numero": 7,
+        "titulo": "— MD, D, P, GD APLASIA MEDULAR ........sssssssssccsssssssssccssssessssessssscseccsssssseeccossssscsscesssssccescessueeesseste",
+        "subareas": []
+      },
+      {
+        "numero": 8,
+        "titulo": "ip, 0, P, GD. ANEMIA MEGALOBLASTICA",
+        "subareas": [
+          {
+            "codigo": "8.2",
+            "titulo": "Anemia por défice d P"
+          },
+          {
+            "codigo": "8.3",
+            "titulo": "Anemia por caréncia de folato"
+          }
+        ]
+      },
+      {
+        "numero": 9,
+        "titulo": "= io, 0, Pp, GD. ANEMIAS HEMOLITICAS",
+        "subareas": [
+          {
+            "codigo": "9.2",
+            "titulo": "Classificagao"
+          },
+          {
+            "codigo": "9.3",
+            "titulo": "Anemias hemoliticas congénitas"
+          },
+          {
+            "codigo": "9.4",
+            "titulo": "Anemias hemoliticas adquiridas"
+          }
+        ]
+      },
+      {
+        "numero": 10,
+        "titulo": "wp, 0, GD. ABORDAGEM AO DOENTE COM LINFADENOPATIA E ESPLENOMEGALIA",
+        "subareas": []
+      },
+      {
+        "numero": 11,
+        "titulo": "Mp, > NEOPLASIAS MIELOPROLIFERATIVAS CRONICAS",
+        "subareas": [
+          {
+            "codigo": "11.2",
+            "titulo": "Leucemia mieloide crénica"
+          },
+          {
+            "codigo": "11.3",
+            "titulo": "Trombocitose essencial"
+          },
+          {
+            "codigo": "11.4",
+            "titulo": "Mielofibrose primaria"
+          }
+        ]
+      },
+      {
+        "numero": 12,
+        "titulo": "wip, 0 SINDROMES MIELODISPLASICAS .. Fa |",
+        "subareas": []
+      },
+      {
+        "numero": 13,
+        "titulo": "LEUCEMIAS AGUDAG...........ccccsssessssssessssesessesssecsssesscsesesssssssssonsssesscensscesseeesseeneanss",
+        "subareas": []
+      },
+      {
+        "numero": 14,
+        "titulo": "wp, 0 SD. LINFOPROLIFERATIVAS CRONICAS. LINFOMAS NAO-HODGKIN",
+        "subareas": [
+          {
+            "codigo": "14.2",
+            "titulo": "Tricoleucemia"
+          },
+          {
+            "codigo": "14.3",
+            "titulo": "Linfoma esplé"
+          },
+          {
+            "codigo": "14.4",
+            "titulo": "Linfoma folicular"
+          },
+          {
+            "codigo": "14.5",
+            "titulo": "Linfoma B difuso de grandes células e Linfoma de células B de alto grau"
+          },
+          {
+            "codigo": "14.6",
+            "titulo": "Linfoma do manto"
+          },
+          {
+            "codigo": "14.7",
+            "titulo": "Linfoma de Burkitt"
+          },
+          {
+            "codigo": "14.8",
+            "titulo": "Linfoma MALT............. ms"
+          },
+          {
+            "codigo": "14.9",
+            "titulo": "Linfoma linfoplasmocitico. Macroglobulinemia de Waldenstrém"
+          },
+          {
+            "codigo": "14.10",
+            "titulo": "Linfomas Nao Hodgkin de Células T"
+          }
+        ]
+      },
+      {
+        "numero": 15,
+        "titulo": "Mo, D, Go MIELOMA E DISTURBIOS DE PLASMOCITOS",
+        "subareas": []
+      },
+      {
+        "numero": 16,
+        "titulo": "UB AMIE GID OSE ssa sacagcscesexscasccosscssccextsssuccerscctssencessuosessocvessyssassscusteysosssversnpiscasissesvsares",
+        "subareas": []
+      },
+      {
+        "numero": 17,
+        "titulo": "BIRO LINFOMAIDETHODGKIN os5sscassscacsoavesesssrsacansssasccstssstisauenstvistracaisaroastenaviasiscacistanaaise",
+        "subareas": []
+      },
+      {
+        "numero": 18,
+        "titulo": "INFORMACOES GERAIS",
+        "subareas": [
+          {
+            "codigo": "18.2",
+            "titulo": "Hemdstase secundaria"
+          },
+          {
+            "codigo": "18.3",
+            "titulo": "Fibrindlise"
+          },
+          {
+            "codigo": "18.4",
+            "titulo": "Exames fundamentais para o estudo da hemodstase"
+          }
+        ]
+      },
+      {
+        "numero": 19,
+        "titulo": "0, GD DISTURBIOS DAS PLAQUETAS: TROMBOCITOPENIAS",
+        "subareas": [
+          {
+            "codigo": "19.2",
+            "titulo": "Purpura trombocitopénica trombotica (PTT) ou sindrome de Moschcowitz"
+          }
+        ]
+      },
+      {
+        "numero": 20,
+        "titulo": "Mp, D, GD DISTURBIOS DAS PLAQUETAS: TROMBOCITOPATIAS",
+        "subareas": [
+          {
+            "codigo": "20.2",
+            "titulo": "Trombocitopatias adqiridas"
+          }
+        ]
+      },
+      {
+        "numero": 21,
+        "titulo": "DISTURBIOS DA COAGULACAO ............sssscssesssssesessseecsssesssnsecessneessnueeeesneesssnuseeete",
+        "subareas": [
+          {
+            "codigo": "21.2",
+            "titulo": "Alteragdes adquiridas da coagulacao"
+          },
+          {
+            "codigo": "21.3",
+            "titulo": "Trombofilias"
+          },
+          {
+            "codigo": "21.4",
+            "titulo": "Alteracdes da coagulacao durante a gravidez e prevencao da doenca"
+          }
+        ]
+      },
+      {
+        "numero": 22,
+        "titulo": "ANTICOAGULANTES",
+        "subareas": [
+          {
+            "codigo": "22.2",
+            "titulo": "Hipocoagu"
+          },
+          {
+            "codigo": "22.3",
+            "titulo": "Novos anticoagulantes orais (NOACs)"
+          }
+        ]
+      },
+      {
+        "numero": 23,
+        "titulo": "SUPORTE TRANSFUSIONAL DE SANGUE E HEMODERIVADOS .........ssssssssssssssssseees",
+        "subareas": []
+      },
+      {
+        "numero": 24,
+        "titulo": "HEMOCROMATOSE......sssssssssssssssssssssssssssssssssssssssssssssnssenseesseecsseeeceeceeseesseeeccesceeeseeese",
+        "subareas": []
+      },
+      {
+        "numero": 25,
+        "titulo": "TRANSPLANTE DE CELULAS PROGENITORAS HEMATOPOIETICAS .....sssssssssseesesee",
+        "subareas": []
+      }
+    ]
+  },
+  "Imagiologia": {
+    "area": "Imagiologia",
+    "total_capitulos": 6,
+    "capitulos": [
+      {
+        "numero": 1,
+        "titulo": "Introducao as técnicas radioldgicas",
+        "subareas": [
+          {
+            "codigo": "1.1",
+            "titulo": "Radiologia convencional"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "titulo": "",
+        "subareas": []
+      },
+      {
+        "numero": 3,
+        "titulo": "",
+        "subareas": []
+      },
+      {
+        "numero": 4,
+        "titulo": "",
+        "subareas": []
+      },
+      {
+        "numero": 5,
+        "titulo": "",
+        "subareas": []
+      },
+      {
+        "numero": 6,
+        "titulo": "SUMARIO",
+        "subareas": []
+      }
+    ]
+  },
+  "Infecciologia e Microbiologia": {
+    "area": "Infecciologia e Microbiologia",
+    "total_capitulos": 26,
+    "capitulos": [
+      {
+        "numero": 1,
+        "titulo": "",
+        "subareas": []
+      },
+      {
+        "numero": 2,
+        "titulo": "A",
+        "subareas": []
+      },
+      {
+        "numero": 3,
+        "titulo": "A",
+        "subareas": []
+      },
+      {
+        "numero": 4,
+        "titulo": "A",
+        "subareas": []
+      },
+      {
+        "numero": 5,
+        "titulo": "A",
+        "subareas": []
+      },
+      {
+        "numero": 6,
+        "titulo": "A",
+        "subareas": []
+      },
+      {
+        "numero": 7,
+        "titulo": "Infecao HIV/SIDA 2 0 2 |",
+        "subareas": []
+      },
+      {
+        "numero": 8,
+        "titulo": "A",
+        "subareas": []
+      },
+      {
+        "numero": 9,
+        "titulo": "A",
+        "subareas": []
+      },
+      {
+        "numero": 10,
+        "titulo": "INFORMACOES GERAIS",
+        "subareas": []
+      },
+      {
+        "numero": 11,
+        "titulo": "Mo, 0, Gd INFEGOES DO SISTEMA NERVOSO CENTRAL — ENCEFALITE, ABCESSO CEREBRAL",
+        "subareas": [
+          {
+            "codigo": "11.1",
+            "titulo": "Encefalite vir"
+          },
+          {
+            "codigo": "11.2",
+            "titulo": "Encefalite cronica"
+          },
+          {
+            "codigo": "11.3",
+            "titulo": "Abcesso cerebral"
+          },
+          {
+            "codigo": "11.4",
+            "titulo": "Neurocisticercose"
+          },
+          {
+            "codigo": "11.5",
+            "titulo": "Empiema subdural"
+          },
+          {
+            "codigo": "11.6",
+            "titulo": "Abcesso epidural"
+          },
+          {
+            "codigo": "11.7",
+            "titulo": "Tromboflebite supurativa"
+          },
+          {
+            "codigo": "11.8",
+            "titulo": "Espondilite e abcesso epidural"
+          }
+        ]
+      },
+      {
+        "numero": 12,
+        "titulo": "io, D, », GD. INFEGAO VIAS RESPIRATORIAS SUPERIORES",
+        "subareas": []
+      },
+      {
+        "numero": 13,
+        "titulo": "ip, D, P,. GD. PNEUMONIA AGUDA DA COMUNIDADE",
+        "subareas": [
+          {
+            "codigo": "13.2",
+            "titulo": "Diagndstico"
+          },
+          {
+            "codigo": "13.3",
+            "titulo": "Prevencao"
+          },
+          {
+            "codigo": "13.4",
+            "titulo": "Terapéutic"
+          },
+          {
+            "codigo": "13.5",
+            "titulo": "Gestao do doente"
+          }
+        ]
+      },
+      {
+        "numero": 14,
+        "titulo": "Tuberculose 0 0 1 |",
+        "subareas": [
+          {
+            "codigo": "14.2",
+            "titulo": "Epidemiologia da tuberculose"
+          },
+          {
+            "codigo": "14.3",
+            "titulo": "Formas clinicas da tuberculose"
+          },
+          {
+            "codigo": "14.4",
+            "titulo": "Diagnostico da tuberculose"
+          },
+          {
+            "codigo": "14.5",
+            "titulo": "Tratamento da tuberculose"
+          },
+          {
+            "codigo": "14.6",
+            "titulo": "Profilaxia da tuberculose"
+          }
+        ]
+      },
+      {
+        "numero": 15,
+        "titulo": "DOENGA DOS LEGIONARIOS ..........sssssssssssscsssscssssssecssseesonsssecssseesensssesssveesenssesssonses",
+        "subareas": [
+          {
+            "codigo": "15.2",
+            "titulo": "Prevencao"
+          },
+          {
+            "codigo": "15.3",
+            "titulo": "Terapéutic"
+          },
+          {
+            "codigo": "15.4",
+            "titulo": "Gestao do doente"
+          }
+        ]
+      },
+      {
+        "numero": 16,
+        "titulo": "0, D, P, GD. INFEGOES SEXUALMENTE TRANSMISSIVEIS",
+        "subareas": [
+          {
+            "codigo": "16.2",
+            "titulo": "Lesdes ulcerativas dos érgdos genitais (ulceras)"
+          },
+          {
+            "codigo": "16.5",
+            "titulo": "Prevencao"
+          }
+        ]
+      },
+      {
+        "numero": 17,
+        "titulo": "00D SI ricer pnRERNaA",
+        "subareas": [
+          {
+            "codigo": "17.2",
+            "titulo": "Historia natural da sifilis sem tratamento"
+          },
+          {
+            "codigo": "17.3",
+            "titulo": "Manifestacdes clinicas"
+          },
+          {
+            "codigo": "17.4",
+            "titulo": "Diagndstico"
+          },
+          {
+            "codigo": "17.5",
+            "titulo": "Tratamento"
+          }
+        ]
+      },
+      {
+        "numero": 18,
+        "titulo": "0, D, », GD. INFECOES GASTROINTESTINAIS",
+        "subareas": [
+          {
+            "codigo": "18.2",
+            "titulo": "Infecdes por Outros VITUS ARN ......cceccesceeeeeseecseceseceesesesesesesssteeeneteneteseeeeaseces"
+          }
+        ]
+      },
+      {
+        "numero": 19,
+        "titulo": "wip, 0 INFECOES INTRA-ABDOMINAIS",
+        "subareas": [
+          {
+            "codigo": "19.2",
+            "titulo": "Abcessos viscerais"
+          },
+          {
+            "codigo": "19.3",
+            "titulo": "Diarreia infecciosa e intoxicagdes aliMentares.............ccssesseseseseeeeseeeeseeteseeeeeeess"
+          }
+        ]
+      },
+      {
+        "numero": 20,
+        "titulo": "0, D, »,. cD. ZOONOSES",
+        "subareas": [
+          {
+            "codigo": "20.2",
+            "titulo": "Leishmaniose"
+          },
+          {
+            "codigo": "20.3",
+            "titulo": "Carbuncul"
+          },
+          {
+            "codigo": "20.4",
+            "titulo": "Tulerémia"
+          },
+          {
+            "codigo": "20.5",
+            "titulo": "Bartonella"
+          },
+          {
+            "codigo": "20.6",
+            "titulo": "Leptospirose"
+          },
+          {
+            "codigo": "20.7",
+            "titulo": "Doenca de Lyme"
+          },
+          {
+            "codigo": "20.10",
+            "titulo": "107"
+          }
+        ]
+      },
+      {
+        "numero": 21,
+        "titulo": "c",
+        "subareas": [
+          {
+            "codigo": "21.2",
+            "titulo": "Giardiase"
+          },
+          {
+            "codigo": "21.3",
+            "titulo": "Febre tifdide"
+          },
+          {
+            "codigo": "21.4",
+            "titulo": "Dengue"
+          },
+          {
+            "codigo": "21.5",
+            "titulo": "Chikunguya"
+          },
+          {
+            "codigo": "21.6",
+            "titulo": "Zika wo"
+          },
+          {
+            "codigo": "21.7",
+            "titulo": "Diarreia do viajante . .114"
+          }
+        ]
+      },
+      {
+        "numero": 22,
+        "titulo": "c",
+        "subareas": [
+          {
+            "codigo": "22.1",
+            "titulo": "Etiologia"
+          },
+          {
+            "codigo": "22.2",
+            "titulo": "Diagndstic"
+          },
+          {
+            "codigo": "22.3",
+            "titulo": "Tratamento.. .115"
+          }
+        ]
+      },
+      {
+        "numero": 23,
+        "titulo": "c",
+        "subareas": []
+      },
+      {
+        "numero": 24,
+        "titulo": "A",
+        "subareas": [
+          {
+            "codigo": "24.1",
+            "titulo": "Vacinacao do imunodeprimido"
+          },
+          {
+            "codigo": "24.2",
+            "titulo": "Vacinacao da gravida"
+          },
+          {
+            "codigo": "24.3",
+            "titulo": "Vacinacao do viajante"
+          }
+        ]
+      },
+      {
+        "numero": 25,
+        "titulo": "c",
+        "subareas": [
+          {
+            "codigo": "25.1",
+            "titulo": "Infecdes em doentes esplenectomizados"
+          },
+          {
+            "codigo": "25.2",
+            "titulo": "Infecdes em doentes neutropénicos"
+          },
+          {
+            "codigo": "25.3",
+            "titulo": "Infecdes em doentes transplantados"
+          }
+        ]
+      },
+      {
+        "numero": 26,
+        "titulo": "cp SINDROME MONONUCLEOSIDO",
+        "subareas": [
+          {
+            "codigo": "26.2",
+            "titulo": "Citomegalovirus (VCM)"
+          }
+        ]
+      }
+    ]
+  },
+  "Nefrologia": {
+    "area": "Nefrologia",
+    "total_capitulos": 11,
+    "capitulos": [
+      {
+        "numero": 1,
+        "titulo": "INTRODUCAO. RECAPITULACAO DA ANATOMIA E FISIOLOGIA RENAL",
+        "subareas": [
+          {
+            "codigo": "1.1",
+            "titulo": "Estrutura rena"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "titulo": "A",
+        "subareas": []
+      },
+      {
+        "numero": 3,
+        "titulo": "A",
+        "subareas": []
+      },
+      {
+        "numero": 4,
+        "titulo": "B",
+        "subareas": [
+          {
+            "codigo": "4.1",
+            "titulo": "Conceito:"
+          },
+          {
+            "codigo": "4.2",
+            "titulo": "Epidemiologia"
+          },
+          {
+            "codigo": "4.3",
+            "titulo": "Classificacao das glomerulonefrites (GMN"
+          },
+          {
+            "codigo": "4.4",
+            "titulo": "Glomerulonefrite rapidamente progressiva (GRP), extracapilar ou crescéntica"
+          },
+          {
+            "codigo": "4.5",
+            "titulo": "GMN associada a infeccdo"
+          },
+          {
+            "codigo": "4.5.1",
+            "titulo": "GMN endocapilar difusa por endocardite bacteriana"
+          },
+          {
+            "codigo": "4.6",
+            "titulo": "Doenca de les6es minimas"
+          },
+          {
+            "codigo": "4.7",
+            "titulo": "Glomerulonefrite membranos"
+          },
+          {
+            "codigo": "4.8",
+            "titulo": "Glomerulosclerose focal e segmentar"
+          },
+          {
+            "codigo": "4.9",
+            "titulo": "Glomerulonefrite membranoproliferativ"
+          },
+          {
+            "codigo": "4.10",
+            "titulo": "Nefropatia de IgA"
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "titulo": "B",
+        "subareas": [
+          {
+            "codigo": "5.1",
+            "titulo": "Indicacées gerais para a bidpsia renal"
+          },
+          {
+            "codigo": "5.2",
+            "titulo": "Sindrome de Goodpasture e doenga antimembrana basal"
+          },
+          {
+            "codigo": "5.3",
+            "titulo": "Vasculite com envolvimento renal .49"
+          },
+          {
+            "codigo": "5.4",
+            "titulo": "Crioglobulinemia essencial mista"
+          },
+          {
+            "codigo": "5.5",
+            "titulo": "Artrite reumatdide"
+          },
+          {
+            "codigo": "5.6",
+            "titulo": "Nefropatia Ipic .49"
+          },
+          {
+            "codigo": "5.7",
+            "titulo": "Nefropatia diabética. .49"
+          },
+          {
+            "codigo": "5.8",
+            "titulo": "Nefropatia amiloide"
+          },
+          {
+            "codigo": "5.9",
+            "titulo": "Mieloma multiplo e outras gamopatias monoclonais"
+          },
+          {
+            "codigo": "5.10",
+            "titulo": "Sindrome de Alport"
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "titulo": "B",
+        "subareas": []
+      },
+      {
+        "numero": 7,
+        "titulo": "B",
+        "subareas": []
+      },
+      {
+        "numero": 8,
+        "titulo": "A mo, , Gd 1.5",
+        "subareas": []
+      },
+      {
+        "numero": 9,
+        "titulo": "mo, > DOENCAS TUBULOINTERSTICIAIS DO RIM",
+        "subareas": [
+          {
+            "codigo": "9.2",
+            "titulo": "Nefropatia tubulointersticial cronica"
+          },
+          {
+            "codigo": "9.3",
+            "titulo": "Diagndstico diferencial entre nefropatia glomerular e tubulointersticial"
+          }
+        ]
+      },
+      {
+        "numero": 10,
+        "titulo": "Mo, D LESAO VASCULAR DO RIM",
+        "subareas": [
+          {
+            "codigo": "10.2",
+            "titulo": "Tromboembolia da artéria renal"
+          },
+          {
+            "codigo": "10.3",
+            "titulo": "Doenca aterosclerdtica ou embolia por colesterol"
+          },
+          {
+            "codigo": "10.4",
+            "titulo": "Nefroangioesclerose"
+          },
+          {
+            "codigo": "10.5",
+            "titulo": "Trombose venosa renal"
+          },
+          {
+            "codigo": "10.6",
+            "titulo": "Microangiopatia trombotica: sindrome hemolitico urémica e purpura"
+          }
+        ]
+      },
+      {
+        "numero": 11,
+        "titulo": "TRASTORNGS TUBULARES HEREDITARIOS siccscicestecssscsscsssssascescacersccctesassactscstsccits",
+        "subareas": [
+          {
+            "codigo": "11.2",
+            "titulo": "Sindrome de Bartter"
+          },
+          {
+            "codigo": "11.3",
+            "titulo": "Sindrome de Gitelman"
+          },
+          {
+            "codigo": "11.4",
+            "titulo": "Sindrome de Liddle (pseudohiperaldosteronismo)"
+          },
+          {
+            "codigo": "11.5",
+            "titulo": "Diabetes insipidus nefrogénica"
+          },
+          {
+            "codigo": "11.6",
+            "titulo": "Sindrome de Fanconi"
+          },
+          {
+            "codigo": "11.7",
+            "titulo": "Glicostria renal"
+          }
+        ]
+      }
+    ]
+  },
+  "Neurologia e Neurocirurgia": {
+    "area": "Neurologia e Neurocirurgia",
+    "total_capitulos": 17,
+    "capitulos": [
+      {
+        "numero": 1,
+        "titulo": "(cn)",
+        "subareas": [
+          {
+            "codigo": "1.1",
+            "titulo": "Cefaleia tipo tensao"
+          },
+          {
+            "codigo": "1.2",
+            "titulo": "Enxaqueca"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "titulo": "io, 0, P, GD",
+        "subareas": [
+          {
+            "codigo": "2.1",
+            "titulo": "Cefaleias primarias"
+          },
+          {
+            "codigo": "2.2",
+            "titulo": "Cefaleias secundarias"
+          },
+          {
+            "codigo": "2.3",
+            "titulo": "Cefaleia na gravidez"
+          },
+          {
+            "codigo": "2.3.1",
+            "titulo": "Cefaleias primarias na gravidez"
+          },
+          {
+            "codigo": "2.3.2",
+            "titulo": "Cefaleias secundarias na gravidez"
+          },
+          {
+            "codigo": "2.4",
+            "titulo": "Nevralgia do Trigémio"
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "titulo": "— ip, 0, P, GD",
+        "subareas": [
+          {
+            "codigo": "3.1",
+            "titulo": "Crises com inicio focal (anteriormente crises parciais)"
+          },
+          {
+            "codigo": "3.2",
+            "titulo": "Crises com inicio generalizado"
+          },
+          {
+            "codigo": "3.2.1",
+            "titulo": "Crises de inicio generalizado motoras"
+          },
+          {
+            "codigo": "3.2.2",
+            "titulo": "Crises de inicio generalizado nao-motoras"
+          },
+          {
+            "codigo": "3.3",
+            "titulo": "Crises nao classificadas"
+          },
+          {
+            "codigo": "3.4",
+            "titulo": "Sindromes epilético:"
+          },
+          {
+            "codigo": "3.5",
+            "titulo": "Consideracées"
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "titulo": "i, 0°, GD",
+        "subareas": [
+          {
+            "codigo": "4.1",
+            "titulo": "Circulagao cerebral"
+          },
+          {
+            "codigo": "4.2",
+            "titulo": "Classificagdes dos AVC"
+          },
+          {
+            "codigo": "4.3",
+            "titulo": "Fatores de risco"
+          },
+          {
+            "codigo": "4.5",
+            "titulo": "AVC hemorragico"
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "titulo": "PERTURBACOES DO MOVIMENTO ..w.......ssessssessssesssessseessseesssecsseessuecsueeenseesneeenueeene",
+        "subareas": [
+          {
+            "codigo": "5.3",
+            "titulo": "Morte cerebral"
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "titulo": "B",
+        "subareas": [
+          {
+            "codigo": "6.1",
+            "titulo": "Sindromes hipocinéticos: Parkinsonismo"
+          },
+          {
+            "codigo": "6.2",
+            "titulo": "Sindromes hipercinéticos"
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "titulo": "B",
+        "subareas": [
+          {
+            "codigo": "7.3",
+            "titulo": "Sintomatologi .79"
+          },
+          {
+            "codigo": "7.4",
+            "titulo": "Mononeuropatias multiplas"
+          },
+          {
+            "codigo": "7.5",
+            "titulo": "Sindrome de Guillain-Barré"
+          },
+          {
+            "codigo": "7.6",
+            "titulo": "Polineuropatia desmielinizante cronica (Chronic Inflammatory Demyelinating"
+          },
+          {
+            "codigo": "7.7",
+            "titulo": "Neuropatia diabética"
+          },
+          {
+            "codigo": "7.8",
+            "titulo": "Neuropatias hereditarias"
+          }
+        ]
+      },
+      {
+        "numero": 8,
+        "titulo": "c",
+        "subareas": [
+          {
+            "codigo": "8.1",
+            "titulo": "Distrofias musculares"
+          },
+          {
+            "codigo": "8.2",
+            "titulo": "Miopatias congénitas (ESTUDO ESPECIALIZADO)"
+          },
+          {
+            "codigo": "8.3",
+            "titulo": "Miopatias metabdlicas"
+          }
+        ]
+      },
+      {
+        "numero": 9,
+        "titulo": "DISTURBIOS DO SISTEMA NERVOSO AUTONOMICO",
+        "subareas": [
+          {
+            "codigo": "9.2",
+            "titulo": "Estudo do sistema nervoso autondmico"
+          },
+          {
+            "codigo": "9.3",
+            "titulo": "Patologia do sistema nervoso autondmico"
+          },
+          {
+            "codigo": "9.3.1",
+            "titulo": "Neuropatia periférica de fibras pequena:"
+          },
+          {
+            "codigo": "9.3.2",
+            "titulo": "Sinucleinopatias ...........ceeeeee"
+          },
+          {
+            "codigo": "9.3.3",
+            "titulo": "Espectro de intolerancia ortostatica"
+          },
+          {
+            "codigo": "9.3.4",
+            "titulo": "DistUrbios da sudoracao"
+          },
+          {
+            "codigo": "9.3.5",
+            "titulo": "Hiperatividade autonomic"
+          },
+          {
+            "codigo": "9.3.6",
+            "titulo": "Disfuncao esfincteriana"
+          },
+          {
+            "codigo": "9.3.7",
+            "titulo": "Distrofia simpatica reflexa"
+          }
+        ]
+      },
+      {
+        "numero": 10,
+        "titulo": "DOENGAS DO NEURONIO MOTOR..........:.csssssssssssecssseessssseecsnseessssseessnneeessnseessnneeess",
+        "subareas": [
+          {
+            "codigo": "10.2",
+            "titulo": "Doencas do neurénio motor inferio!"
+          },
+          {
+            "codigo": "10.3",
+            "titulo": "Doencas do neurénio motor superior"
+          }
+        ]
+      },
+      {
+        "numero": 11,
+        "titulo": "> DOENGAS INFLAMATORIAS DO SISTEMA NERVOSO CENTRAL",
+        "subareas": [
+          {
+            "codigo": "11.2",
+            "titulo": "Outras doencas desmiel:"
+          }
+        ]
+      },
+      {
+        "numero": 12,
+        "titulo": "DOENCAS DA JUNCAO NEUROMUSCULAR",
+        "subareas": [
+          {
+            "codigo": "12.2",
+            "titulo": "Sindrome de Lambert-Eaton"
+          },
+          {
+            "codigo": "12.3",
+            "titulo": "Botulismo"
+          },
+          {
+            "codigo": "12.4",
+            "titulo": "Neuromiotonia adquirida (sindrome de Isaacs)"
+          }
+        ]
+      },
+      {
+        "numero": 13,
+        "titulo": "i, P, 0, Gd. DISTURBIOS DA MEMORIA E DEMENCIA",
+        "subareas": [
+          {
+            "codigo": "13.2",
+            "titulo": "Declinio Cognitivo Ligeiro"
+          },
+          {
+            "codigo": "13.3",
+            "titulo": "Sindroma Confusional Agud:"
+          },
+          {
+            "codigo": "13.5",
+            "titulo": "Outras Doencas Causadoras de Alteracdes Cognitivas"
+          }
+        ]
+      },
+      {
+        "numero": 14,
+        "titulo": "DOENCAS NUTRICIONAIS E METABOLICAS",
+        "subareas": [
+          {
+            "codigo": "14.2",
+            "titulo": "Doencas nutricionais"
+          }
+        ]
+      },
+      {
+        "numero": 15,
+        "titulo": "TUMORES CEREBRAIS........s:s:sessssssssessssesssessssnssesnsersssersssnsesessnsasaenserensstossesesaseneeses",
+        "subareas": []
+      },
+      {
+        "numero": 16,
+        "titulo": "NEUROCIRURGIA",
+        "subareas": [
+          {
+            "codigo": "16.2",
+            "titulo": "Patologia raquimedular"
+          },
+          {
+            "codigo": "16.3",
+            "titulo": "Lesdes medulares traumaticas"
+          },
+          {
+            "codigo": "16.4",
+            "titulo": "Liquido cefalorraquidiano (LCR). Sindrome de hipertensao intracranian"
+          },
+          {
+            "codigo": "16.5",
+            "titulo": "FacOMAatOSeS ..........cccccceeeseees"
+          },
+          {
+            "codigo": "16.6",
+            "titulo": "Anomalias do desenvolvimento"
+          },
+          {
+            "codigo": "16.7",
+            "titulo": "Neurocirurgia fUNCIONA!L ............s.ccssesessesessesessesessssesnssesnssesssssessesrseestsneatseeeeeess"
+          }
+        ]
+      },
+      {
+        "numero": 17,
+        "titulo": "ATAXIA... ccsesessenssnenssesnensssenensnssnensssnsssansnenssvenssensarsusueassnensatsnensarensaransneossneneasansoses",
+        "subareas": []
+      }
+    ]
+  },
+  "Oftalmologia": {
+    "area": "Oftalmologia",
+    "total_capitulos": 12,
+    "capitulos": [
+      {
+        "numero": 1,
+        "titulo": "B",
+        "subareas": []
+      },
+      {
+        "numero": 2,
+        "titulo": "B",
+        "subareas": [
+          {
+            "codigo": "2.2.1",
+            "titulo": "Episclerite"
+          },
+          {
+            "codigo": "2.2.2",
+            "titulo": "Esclerite"
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "titulo": "{cll",
+        "subareas": [
+          {
+            "codigo": "3.1",
+            "titulo": "Glaucoma crénico de angulo aberto"
+          },
+          {
+            "codigo": "3.4",
+            "titulo": "Glaucomas secundarios"
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "titulo": "B",
+        "subareas": [
+          {
+            "codigo": "4.3",
+            "titulo": "Uveite anteri"
+          },
+          {
+            "codigo": "4.4",
+            "titulo": "Uveite intermédia"
+          },
+          {
+            "codigo": "4.5",
+            "titulo": "Uveite posterior"
+          },
+          {
+            "codigo": "4.6",
+            "titulo": "Formas especificas de uveite"
+          },
+          {
+            "codigo": "4.7",
+            "titulo": "Melanoma da coroide"
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "titulo": "B",
+        "subareas": [
+          {
+            "codigo": "5.1",
+            "titulo": "Dacriocistite do recém-nascido"
+          },
+          {
+            "codigo": "5.2",
+            "titulo": "Dacriocistite do adulto"
+          },
+          {
+            "codigo": "5.3",
+            "titulo": "Queratoconjuntivite seca ou Sindrome do olho seco"
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "titulo": "",
+        "subareas": []
+      },
+      {
+        "numero": 7,
+        "titulo": "B",
+        "subareas": [
+          {
+            "codigo": "7.3",
+            "titulo": "Parésias oculomotoras"
+          },
+          {
+            "codigo": "7.4",
+            "titulo": "Estrabismo"
+          }
+        ]
+      },
+      {
+        "numero": 8,
+        "titulo": "B mp, 3.2. Glaucoma de angulo fechado",
+        "subareas": [
+          {
+            "codigo": "8.1",
+            "titulo": "Anatomia da retin"
+          },
+          {
+            "codigo": "8.2",
+            "titulo": "Rasgaduras retinian"
+          },
+          {
+            "codigo": "8.3",
+            "titulo": "Descolamento da retina"
+          },
+          {
+            "codigo": "8.4",
+            "titulo": "Oclusdo arterial retiniana"
+          },
+          {
+            "codigo": "8.5",
+            "titulo": "Oclusdo venosa retiniana"
+          },
+          {
+            "codigo": "8.6",
+            "titulo": "Retinopatia diabética"
+          },
+          {
+            "codigo": "8.7",
+            "titulo": "Retinopatia hipertensiva"
+          },
+          {
+            "codigo": "8.8",
+            "titulo": "Miopia degenerativa"
+          },
+          {
+            "codigo": "8.9",
+            "titulo": "Retinopatia pigmentar"
+          },
+          {
+            "codigo": "8.10",
+            "titulo": "Degeneracao macular senil ou relacionada com a idade (DMI"
+          },
+          {
+            "codigo": "8.11",
+            "titulo": "Coriorretinopatia serosa central"
+          },
+          {
+            "codigo": "8.12",
+            "titulo": "Maculopatia por farmacos"
+          },
+          {
+            "codigo": "8.13",
+            "titulo": "Vitreo"
+          },
+          {
+            "codigo": "8.14",
+            "titulo": "Buraco m"
+          },
+          {
+            "codigo": "8.15",
+            "titulo": "Estrias angidides"
+          },
+          {
+            "codigo": "8.16",
+            "titulo": "Sindrome de Von Hippel-Lindau"
+          }
+        ]
+      },
+      {
+        "numero": 9,
+        "titulo": "PPE OUCYGIA IDG CRIS TAM IN Oso casohicecai cea cetcacttecennctccates cestccbecnubteectevrcsaseseostacsiey",
+        "subareas": [
+          {
+            "codigo": "9.2",
+            "titulo": "Luxacao e subluxacao do cristalin"
+          }
+        ]
+      },
+      {
+        "numero": 10,
+        "titulo": "PATOLOGIA DA ORBITA",
+        "subareas": [
+          {
+            "codigo": "10.2",
+            "titulo": "Celulite orbitari"
+          },
+          {
+            "codigo": "10.3",
+            "titulo": "Fistula carétido"
+          },
+          {
+            "codigo": "10.6",
+            "titulo": "Fraturas da orbita e do macico facial"
+          }
+        ]
+      },
+      {
+        "numero": 11,
+        "titulo": "REFRACAO",
+        "subareas": [
+          {
+            "codigo": "11.2",
+            "titulo": "Tratamento cirurgico das ametropia:"
+          },
+          {
+            "codigo": "11.3",
+            "titulo": "Presbiopia"
+          }
+        ]
+      },
+      {
+        "numero": 12,
+        "titulo": "OFTALMOLOGIA PEDIATRICA: CAUSAS DE LEUCOCORIA, AMBLIOPIA,",
+        "subareas": []
+      }
+    ]
+  },
+  "Oncologia": {
+    "area": "Oncologia",
+    "total_capitulos": 7,
+    "capitulos": [
+      {
+        "numero": 1,
+        "titulo": "EPIDEMIOLOGIA E PREVENCAO DO CANCRO",
+        "subareas": [
+          {
+            "codigo": "1.2",
+            "titulo": "Fatores de risco de cancro"
+          },
+          {
+            "codigo": "1.1",
+            "titulo": "Causas mais frequentes de cancro"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "titulo": "Gp PRINCIPIOS DA BIOLOGIA MOLECULAR DOS TUMORES",
+        "subareas": [
+          {
+            "codigo": "2.2",
+            "titulo": "As caracteristicas do cancro"
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "titulo": "PRINCIPIOS DA TERAPEUTICA ONCOLOGICA",
+        "subareas": [
+          {
+            "codigo": "3.2",
+            "titulo": "Conceitos basicos de Radioterapia (RT)"
+          },
+          {
+            "codigo": "3.3",
+            "titulo": "Conceitos basicos de terapéutica médica"
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "titulo": "Mp, 0, GD EMERGENCIAS-URGENCIAS EM ONCOLOGIA E OUTRAS SITUACOES",
+        "subareas": [
+          {
+            "codigo": "4.2",
+            "titulo": "Sindrome de compressao medular"
+          },
+          {
+            "codigo": "4.3",
+            "titulo": "Sindrome de lise tumora"
+          },
+          {
+            "codigo": "4.4",
+            "titulo": "Neutropenia febri"
+          },
+          {
+            "codigo": "4.5",
+            "titulo": "Hipertensdo intracraniana"
+          },
+          {
+            "codigo": "4.6",
+            "titulo": "Outras urgéncias oncoldgicas"
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "titulo": "wp, 0 SINDROMES PARANEOPLASICOS",
+        "subareas": [
+          {
+            "codigo": "5.1.1",
+            "titulo": "Hipercalcémia de etiologia paraneoplasicas"
+          },
+          {
+            "codigo": "5.1.2",
+            "titulo": "Sindrome de secrecéo inapropriada de ADH (SIADH)"
+          },
+          {
+            "codigo": "5.1.3",
+            "titulo": "Sindrome de Cushing por producdo de ACTH ectdpica"
+          },
+          {
+            "codigo": "5.2",
+            "titulo": "Sindromes paraneoplasicos hematoldgicos"
+          },
+          {
+            "codigo": "5.2.1",
+            "titulo": "Eritrocitose"
+          },
+          {
+            "codigo": "5.2.2",
+            "titulo": "Granulocitose"
+          },
+          {
+            "codigo": "5.2.3",
+            "titulo": "Trombocitose"
+          },
+          {
+            "codigo": "5.2.4",
+            "titulo": "Tromboembolismo venoso (TEV)"
+          },
+          {
+            "codigo": "5.3",
+            "titulo": "Sindromes paraneoplasicos neurolégicos"
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "titulo": "Mp, 0, GD. TRATAMENTO DE SUPORTE EM DOENTE COM CANCRO",
+        "subareas": [
+          {
+            "codigo": "6.2",
+            "titulo": "Obstipacao"
+          },
+          {
+            "codigo": "6.3",
+            "titulo": "Anemia e ferropénia"
+          },
+          {
+            "codigo": "6.4",
+            "titulo": "Dispneia"
+          },
+          {
+            "codigo": "6.5",
+            "titulo": "Neutropenia"
+          },
+          {
+            "codigo": "6.6",
+            "titulo": "Dor oo"
+          },
+          {
+            "codigo": "6.7",
+            "titulo": "Cuidados Paliativos e Planeamento Adequado de Cuidados em Fim de Vida"
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "titulo": "Mp, > TUMOR PRIMARIO OCULTO - CANCER OF UNKNOWN PRIMARY (CUP)",
+        "subareas": []
+      }
+    ]
+  },
+  "Ortopedia": {
+    "area": "Ortopedia",
+    "total_capitulos": 8,
+    "capitulos": [
+      {
+        "numero": 1,
+        "titulo": "A",
+        "subareas": [
+          {
+            "codigo": "1.1",
+            "titulo": "Introducdo/Definicdes"
+          },
+          {
+            "codigo": "1.2",
+            "titulo": "Abordagem inicial"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "titulo": "A",
+        "subareas": [
+          {
+            "codigo": "2.1",
+            "titulo": "Generalidades .............000"
+          },
+          {
+            "codigo": "2.2",
+            "titulo": "Consolidacao das fraturas"
+          },
+          {
+            "codigo": "2.3",
+            "titulo": "Clinica, diagndstico e tratamento"
+          },
+          {
+            "codigo": "2.4",
+            "titulo": "Complicacées gerais das fraturas"
+          },
+          {
+            "codigo": "2.5",
+            "titulo": "Fraturas do membro superior"
+          },
+          {
+            "codigo": "2.6",
+            "titulo": "Fraturas do membro inferior"
+          },
+          {
+            "codigo": "2.7",
+            "titulo": "Caracteristicas basicas das luxagdes nos membros"
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "titulo": "A",
+        "subareas": [
+          {
+            "codigo": "3.2",
+            "titulo": "Traumatologia da coluna vertebral"
+          },
+          {
+            "codigo": "3.3",
+            "titulo": "Patologias do desenvolvimento da coluna vertebral"
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "titulo": "LESOES DOS TECIDOS MOLES: DOENCAS PERIARTICULARES",
+        "subareas": [
+          {
+            "codigo": "4.1",
+            "titulo": "Introducao"
+          },
+          {
+            "codigo": "4.2",
+            "titulo": "Traumatismos pediatricos"
+          },
+          {
+            "codigo": "4.3",
+            "titulo": "Perturbacéo do desenvolvimento"
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "titulo": "A",
+        "subareas": [
+          {
+            "codigo": "5.1",
+            "titulo": "IMtFOGUGAO 0... eee eeeeeeeeeeeteteneeeee"
+          },
+          {
+            "codigo": "5.4",
+            "titulo": "Lesdes musculotendinosas aguda:"
+          },
+          {
+            "codigo": "5.5",
+            "titulo": "Les6es vasculares"
+          },
+          {
+            "codigo": "5.6",
+            "titulo": "Lesdes ligamentare:"
+          },
+          {
+            "codigo": "5.7",
+            "titulo": "Patologia inflamatoria nao traumatica"
+          },
+          {
+            "codigo": "5.8",
+            "titulo": "Doenca de Dupuytren"
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "titulo": "B",
+        "subareas": []
+      },
+      {
+        "numero": 7,
+        "titulo": "B mo, D, Gd 5.2. Feridas na pele e no tecido celular subcutaneo",
+        "subareas": [
+          {
+            "codigo": "7.1",
+            "titulo": "Introdugao"
+          },
+          {
+            "codigo": "7.2",
+            "titulo": "Critérios de diagnostic"
+          },
+          {
+            "codigo": "7.3",
+            "titulo": "Subtipos clinicos de osteoartrose"
+          },
+          {
+            "codigo": "7.4",
+            "titulo": "Tratamento da Osteoartrose"
+          },
+          {
+            "codigo": "7.5",
+            "titulo": "Necrose avascular da cabeca femoral do adulto"
+          },
+          {
+            "codigo": "7.6",
+            "titulo": "Anca dolorosa do adulto jovem ou conflito femoro-acetabular"
+          },
+          {
+            "codigo": "7.7",
+            "titulo": "Hallux ValQus ........cccceeceeesssesssscsesesescsescsescscereeeneneessensssesasasasscscacsvarseerseseseeeeteeseees"
+          }
+        ]
+      },
+      {
+        "numero": 8,
+        "titulo": "VALORES NORMAIS EM ORTOPEDIA",
+        "subareas": [
+          {
+            "codigo": "8.1",
+            "titulo": "Introdugao"
+          },
+          {
+            "codigo": "8.2",
+            "titulo": "Principais caracteristicas"
+          },
+          {
+            "codigo": "8.3",
+            "titulo": "Principios terap@uticOS.............cessscesessesesseseseeseseeseseesesessssessesessscerescenensereesseensaeees"
+          }
+        ]
+      }
+    ]
+  },
+  "Otorrinolaringologia": {
+    "area": "Otorrinolaringologia",
+    "total_capitulos": 8,
+    "capitulos": [
+      {
+        "numero": 1,
+        "titulo": "c/B",
+        "subareas": [
+          {
+            "codigo": "1.1",
+            "titulo": "Anatomia"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "titulo": "B",
+        "subareas": []
+      },
+      {
+        "numero": 3,
+        "titulo": "B",
+        "subareas": []
+      },
+      {
+        "numero": 4,
+        "titulo": "B",
+        "subareas": []
+      },
+      {
+        "numero": 5,
+        "titulo": "",
+        "subareas": []
+      },
+      {
+        "numero": 6,
+        "titulo": "B",
+        "subareas": []
+      },
+      {
+        "numero": 7,
+        "titulo": "OUTRAS",
+        "subareas": [
+          {
+            "codigo": "7.2",
+            "titulo": "Fraturas do céndilo mandibular"
+          },
+          {
+            "codigo": "7.3",
+            "titulo": "Fraturas craniofaciais"
+          }
+        ]
+      },
+      {
+        "numero": 8,
+        "titulo": "Mp, D SINDROME DA APNEIA OBSTRUTIVA DO SONO (SAOS)....ssssssssssssssssssssesssesssssseees",
+        "subareas": []
+      }
+    ]
+  },
+  "Pediatria": {
+    "area": "Pediatria",
+    "total_capitulos": 13,
+    "capitulos": [
+      {
+        "numero": 1,
+        "titulo": "ip, 0, P, GD. NEONATOLOGIA",
+        "subareas": []
+      },
+      {
+        "numero": 2,
+        "titulo": "wip, 0, P, GD",
+        "subareas": []
+      },
+      {
+        "numero": 3,
+        "titulo": "A/B",
+        "subareas": []
+      },
+      {
+        "numero": 4,
+        "titulo": "wip, 0, P, GD",
+        "subareas": []
+      },
+      {
+        "numero": 5,
+        "titulo": "id, 0, P, GD",
+        "subareas": [
+          {
+            "codigo": "5.3.2",
+            "titulo": "Outros indices de crescimento"
+          },
+          {
+            "codigo": "5.3.3",
+            "titulo": "Baixa estatura"
+          },
+          {
+            "codigo": "5.4",
+            "titulo": "Diabetes mellitus"
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "titulo": "— MD, D, P, GD ADOLESCENCIA ........-ssssccssssccossscccsssescsnsseccsnseecensscsssueccsnssesssusecssneessussesesnseesenseesees",
+        "subareas": []
+      },
+      {
+        "numero": 7,
+        "titulo": "Infecciologia 1 3 3 r",
+        "subareas": []
+      },
+      {
+        "numero": 8,
+        "titulo": "Mid, 0, », GD. NEUROPEDIATRIA E NEURODESENVOLVIMENTO..........c.ssscsssescssecsssecsneecsnesssessnees",
+        "subareas": [
+          {
+            "codigo": "8.3.1",
+            "titulo": "Comportamento e temperamento"
+          },
+          {
+            "codigo": "8.4.1",
+            "titulo": "Incapacidades Intelectuais"
+          },
+          {
+            "codigo": "8.4.2",
+            "titulo": "Perturbacdo do Espetro do Au we"
+          },
+          {
+            "codigo": "8.4.3",
+            "titulo": "Perturbacdo de hiperatividade e défice de atencao (PHDA)"
+          },
+          {
+            "codigo": "8.4.4",
+            "titulo": "Perturbacdes da Comunicacao"
+          },
+          {
+            "codigo": "8.4.5",
+            "titulo": "Tiques na crianga"
+          }
+        ]
+      },
+      {
+        "numero": 9,
+        "titulo": "B 9.2. Alergias alimentare:",
+        "subareas": [
+          {
+            "codigo": "9.1.1",
+            "titulo": "Sibilancia recorrente"
+          },
+          {
+            "codigo": "9.1.2",
+            "titulo": "Asma"
+          },
+          {
+            "codigo": "9.4.1",
+            "titulo": "Urticaria"
+          },
+          {
+            "codigo": "9.4.2",
+            "titulo": "Angioedema"
+          },
+          {
+            "codigo": "9.4.3",
+            "titulo": "Anafilaxia"
+          }
+        ]
+      },
+      {
+        "numero": 10,
+        "titulo": "— MD, D, P, GD. APARELHO DIGESTIVO .u........cssseesssessssessssscsssecsnsccssecsnseceneccsuccensccanecensecenscesnecenseees",
+        "subareas": [
+          {
+            "codigo": "10.1.2",
+            "titulo": "Abordagem ao doente com obstipacao"
+          },
+          {
+            "codigo": "10.4",
+            "titulo": "Estenose hipertréfica do piloro (EHP)"
+          },
+          {
+            "codigo": "10.6",
+            "titulo": "Dor abdominal crénica/recorrente"
+          },
+          {
+            "codigo": "10.7",
+            "titulo": "Invaginacao intestinal"
+          },
+          {
+            "codigo": "10.8",
+            "titulo": "Diverticulo de Meckel"
+          },
+          {
+            "codigo": "10.9",
+            "titulo": "Transtornos da motilidade intestinal"
+          }
+        ]
+      },
+      {
+        "numero": 11,
+        "titulo": "NEFRO-UROLOGIA..........c:scsssssssssssessecssscssscssssesssecssecscerssseesseosscesscesseseeeseesseassseseseeee",
+        "subareas": []
+      },
+      {
+        "numero": 12,
+        "titulo": "URGENCIA OU EMERGENCIA",
+        "subareas": []
+      },
+      {
+        "numero": 13,
+        "titulo": "SINDROME DA MORTE SUBITA DO LACTENTE .........ssssssessccsssssseseessssseeesesssnneeeseeees",
+        "subareas": []
+      }
+    ]
+  },
+  "Pneumologia e Cirurgia Torácica": {
+    "area": "Pneumologia e Cirurgia Torácica",
+    "total_capitulos": 24,
+    "capitulos": [
+      {
+        "numero": 1,
+        "titulo": "(cll",
+        "subareas": [
+          {
+            "codigo": "1.1",
+            "titulo": "Histologia"
+          },
+          {
+            "codigo": "1.2",
+            "titulo": "Divis6es e segmentos pulmonares"
+          },
+          {
+            "codigo": "1.3",
+            "titulo": "Radiografia do torax"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "titulo": "BiB. HIPOMCMIA. ces cscccccesctcscueusucuensscteosescststenscnsesssusvi secessiteustasstixestousentsosisveravestveuesce",
+        "subareas": [
+          {
+            "codigo": "2.1",
+            "titulo": "Mecanica ventilatoria"
+          },
+          {
+            "codigo": "2.2",
+            "titulo": "Avaliacgdo das trocas gasosas s"
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "titulo": "",
+        "subareas": []
+      },
+      {
+        "numero": 4,
+        "titulo": "(cll",
+        "subareas": []
+      },
+      {
+        "numero": 5,
+        "titulo": "",
+        "subareas": []
+      },
+      {
+        "numero": 6,
+        "titulo": "A",
+        "subareas": []
+      },
+      {
+        "numero": 7,
+        "titulo": "Asma 1 0 |",
+        "subareas": []
+      },
+      {
+        "numero": 8,
+        "titulo": "BRONQUIECTASIAS",
+        "subareas": [
+          {
+            "codigo": "8.1",
+            "titulo": "Conceito e anatomia patolégica"
+          },
+          {
+            "codigo": "8.2",
+            "titulo": "Caracteristicas diferenciais do enfisema e da bronquite crénica"
+          },
+          {
+            "codigo": "8.3",
+            "titulo": "Diagndéstico"
+          },
+          {
+            "codigo": "8.4",
+            "titulo": "Classificagao GOLD"
+          },
+          {
+            "codigo": "8.5",
+            "titulo": "Tratamento"
+          },
+          {
+            "codigo": "8.6",
+            "titulo": "Comorbidade no doente DPOC"
+          },
+          {
+            "codigo": "8.7",
+            "titulo": "Prognéstico"
+          }
+        ]
+      },
+      {
+        "numero": 9,
+        "titulo": "B",
+        "subareas": []
+      },
+      {
+        "numero": 10,
+        "titulo": "c",
+        "subareas": []
+      },
+      {
+        "numero": 11,
+        "titulo": "B",
+        "subareas": [
+          {
+            "codigo": "11.1",
+            "titulo": "Derrame pleural"
+          },
+          {
+            "codigo": "11.2",
+            "titulo": "Pneumotorax"
+          },
+          {
+            "codigo": "11.3",
+            "titulo": "Tumores pleurais"
+          }
+        ]
+      },
+      {
+        "numero": 12,
+        "titulo": "B",
+        "subareas": [
+          {
+            "codigo": "12.1",
+            "titulo": "Massas do mediastino"
+          },
+          {
+            "codigo": "12.2",
+            "titulo": "Mediastinite"
+          }
+        ]
+      },
+      {
+        "numero": 13,
+        "titulo": "ALERGIAS, ANAFILAXIA E MASTOCITOSE SISTEMICA........sssssssssssssssesseessssseeessssnne",
+        "subareas": [
+          {
+            "codigo": "13.1",
+            "titulo": "Paralisia do diafragma"
+          },
+          {
+            "codigo": "13.2",
+            "titulo": "Hérnias diafragmaticas"
+          }
+        ]
+      },
+      {
+        "numero": 14,
+        "titulo": "B",
+        "subareas": []
+      },
+      {
+        "numero": 15,
+        "titulo": "c",
+        "subareas": []
+      },
+      {
+        "numero": 16,
+        "titulo": "B",
+        "subareas": [
+          {
+            "codigo": "16.1",
+            "titulo": "Pneumonias intersticiais por inalacéo de pds nao organicos: pneumoconiose"
+          },
+          {
+            "codigo": "16.2",
+            "titulo": "Pneumonias intersticiais por inalacéo de pds organicos"
+          },
+          {
+            "codigo": "16.3",
+            "titulo": "Pneumonia intersticial induzida por farmaco"
+          }
+        ]
+      },
+      {
+        "numero": 17,
+        "titulo": "c",
+        "subareas": []
+      },
+      {
+        "numero": 18,
+        "titulo": "B",
+        "subareas": [
+          {
+            "codigo": "18.1",
+            "titulo": "Hipoventilacao alveolar"
+          },
+          {
+            "codigo": "18.2",
+            "titulo": "Hiperventilacdo alveolar"
+          },
+          {
+            "codigo": "18.3",
+            "titulo": "Sindromes de apneia / hipopneia do sono"
+          }
+        ]
+      },
+      {
+        "numero": 19,
+        "titulo": "Mp, D, GD SINDROME DE DIFICULDADE RESPIRATORIA AGUDA...........::sssssssssssssessseessssseeene",
+        "subareas": []
+      },
+      {
+        "numero": 20,
+        "titulo": "SUPORTE VENTILATORIO NAO-INVASIVO ........sssssssssssssseesseesessssssssssneseeesseeeesseees",
+        "subareas": []
+      },
+      {
+        "numero": 21,
+        "titulo": "SINDROME DA HEMORRAGIA ALVEOLAR DIFUSA",
+        "subareas": [
+          {
+            "codigo": "21.2",
+            "titulo": "Doenca de Goodpasture"
+          }
+        ]
+      },
+      {
+        "numero": 22,
+        "titulo": "wo, D,P NEOPLASIAS DO PULMAO",
+        "subareas": [
+          {
+            "codigo": "22.2",
+            "titulo": "Neoplasias malignas do pulmao"
+          },
+          {
+            "codigo": "22.3",
+            "titulo": "Neoplasias pulmonares benignas"
+          }
+        ]
+      },
+      {
+        "numero": 23,
+        "titulo": "TRANSPLANTE A",
+        "subareas": [
+          {
+            "codigo": "23.2",
+            "titulo": "COMPIiCACGES..........eececeeseseseseseeees"
+          }
+        ]
+      },
+      {
+        "numero": 24,
+        "titulo": "MALFORMACOES PULMONARES",
+        "subareas": [
+          {
+            "codigo": "24.2",
+            "titulo": "Anomalias traqueobrénquicas"
+          }
+        ]
+      }
+    ]
+  },
+  "Psiquiatria": {
+    "area": "Psiquiatria",
+    "total_capitulos": 16,
+    "capitulos": [
+      {
+        "numero": 1,
+        "titulo": "Introducao 1 0",
+        "subareas": [
+          {
+            "codigo": "1.1",
+            "titulo": "Sistemas de classificac¢ quiatria"
+          },
+          {
+            "codigo": "1.2",
+            "titulo": "Modelos principais de psicoterapia"
+          },
+          {
+            "codigo": "1.3",
+            "titulo": "Psicopatologia"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "titulo": "iD, D, P, GD",
+        "subareas": [
+          {
+            "codigo": "2.1",
+            "titulo": "Delirium ou sindrome confusional agudo"
+          },
+          {
+            "codigo": "2.2",
+            "titulo": "Pseudodeméncia depressiva. Diagnéstico diferencial na deméncia"
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "titulo": "C mo, p, co",
+        "subareas": [
+          {
+            "codigo": "3.1",
+            "titulo": "Esquizofrenia"
+          },
+          {
+            "codigo": "3.2",
+            "titulo": "Perturbacdo delirante persistent"
+          },
+          {
+            "codigo": "3.3",
+            "titulo": "Perturbacdo psicética aguda e transitoria"
+          },
+          {
+            "codigo": "3.4",
+            "titulo": "Perturbacao delirante induzida"
+          },
+          {
+            "codigo": "3.5",
+            "titulo": "Perturbacdo da personalidade Esquizotipica"
+          },
+          {
+            "codigo": "3.6",
+            "titulo": "Perturbacées psicoticas nao organicas nao especifica:"
+          },
+          {
+            "codigo": "3.7",
+            "titulo": "Outros perturbacées psicoticas"
+          },
+          {
+            "codigo": "3.8",
+            "titulo": "Antipsicdticos (APS), neuroléptic"
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "titulo": "i, D, P, GD",
+        "subareas": [
+          {
+            "codigo": "4.1",
+            "titulo": "Perturbacdes depressivas"
+          },
+          {
+            "codigo": "4.2",
+            "titulo": "Suicidio e comportamentos auto-|"
+          },
+          {
+            "codigo": "4.3",
+            "titulo": "Sindrome maniforme"
+          },
+          {
+            "codigo": "4.4",
+            "titulo": "Perturbacao afetiva bipolar"
+          },
+          {
+            "codigo": "4.5",
+            "titulo": "Outras perturbacdes do humor"
+          },
+          {
+            "codigo": "4.6",
+            "titulo": "Tratamentos"
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "titulo": "B mo, p, co",
+        "subareas": [
+          {
+            "codigo": "5.1",
+            "titulo": "Perturbacao de panico"
+          },
+          {
+            "codigo": "5.2",
+            "titulo": "Perturbacdes fobicas"
+          },
+          {
+            "codigo": "5.3",
+            "titulo": "Perturbacao de ansiedade generalizada (GAD)"
+          },
+          {
+            "codigo": "5.4",
+            "titulo": "Outras perturbac6es da ansiedade (CO C, MD, D, GD)"
+          },
+          {
+            "codigo": "5.5",
+            "titulo": "Benzodiazepinas"
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "titulo": "B/Cc",
+        "subareas": [
+          {
+            "codigo": "6.1",
+            "titulo": "Perturbacdo de Adaptacao"
+          },
+          {
+            "codigo": "6.3",
+            "titulo": "Reacado Aguda ao Stress"
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "titulo": "c",
+        "subareas": [
+          {
+            "codigo": "7.1",
+            "titulo": "Perturbacao de sintomas somaticos"
+          },
+          {
+            "codigo": "7.2",
+            "titulo": "Perturbacaéo de conversdo (perturbacao de sintomas neurolégicos funcionais)"
+          },
+          {
+            "codigo": "7.3",
+            "titulo": "Perturbacdo de ansiedade associada & CO@NCA ..........esssssssseseseseeseseseseeteesteneeeees"
+          }
+        ]
+      },
+      {
+        "numero": 8,
+        "titulo": "B",
+        "subareas": [
+          {
+            "codigo": "8.1",
+            "titulo": "Perturbacao obsessivo-compulsiva"
+          }
+        ]
+      },
+      {
+        "numero": 9,
+        "titulo": "B",
+        "subareas": [
+          {
+            "codigo": "9.1",
+            "titulo": "Anorexia nervosa"
+          },
+          {
+            "codigo": "9.2",
+            "titulo": "Bulimia nervosa"
+          },
+          {
+            "codigo": "9.3",
+            "titulo": "Outras perturbacdes do comportamento alimentar"
+          }
+        ]
+      },
+      {
+        "numero": 10,
+        "titulo": "i, 0, P, GD",
+        "subareas": [
+          {
+            "codigo": "10.1",
+            "titulo": "Sono normal"
+          },
+          {
+            "codigo": "10.2",
+            "titulo": "Dissonias"
+          },
+          {
+            "codigo": "10.3",
+            "titulo": "Parassonias"
+          }
+        ]
+      },
+      {
+        "numero": 11,
+        "titulo": "ip, 0, P, GD PERTURBACOES POR USO DE SUBSTANCIAS",
+        "subareas": []
+      },
+      {
+        "numero": 12,
+        "titulo": "Mp, D, GD PERTURBACOES NA INFANCIA E NA ADOLESCENCIA",
+        "subareas": [
+          {
+            "codigo": "12.2",
+            "titulo": "Autismo"
+          },
+          {
+            "codigo": "12.3",
+            "titulo": "Outras perturbacdes generalizadas do desenvolvimento"
+          },
+          {
+            "codigo": "12.4",
+            "titulo": "Perturbacao de hiperatividade com défice de atencao (PHDA)"
+          },
+          {
+            "codigo": "12.5",
+            "titulo": "Perturbacdes de eliminacao"
+          },
+          {
+            "codigo": "12.6",
+            "titulo": "Perturbacées de tiques"
+          },
+          {
+            "codigo": "12.7",
+            "titulo": "Perturbacao de ansiedade infantil"
+          }
+        ]
+      },
+      {
+        "numero": 13,
+        "titulo": "PERTURBACOES DISSOCIATIVAS .......ssssssssssessssssessssuseesssseessssseesssseessnuseeesneeessnsseeess",
+        "subareas": []
+      },
+      {
+        "numero": 14,
+        "titulo": "PERTURBACOES FACTICIAS",
+        "subareas": [
+          {
+            "codigo": "14.2",
+            "titulo": "Simulacées"
+          }
+        ]
+      },
+      {
+        "numero": 15,
+        "titulo": "PERTURBACAO DE COMPORTAMENTO DISRUPTIVO, DO CONTROLO",
+        "subareas": []
+      },
+      {
+        "numero": 16,
+        "titulo": "Mp, D, GD PERTURBACOES DA PERSONALIDADE",
+        "subareas": [
+          {
+            "codigo": "16.2",
+            "titulo": "Perturbacées da personalidade grupo B"
+          },
+          {
+            "codigo": "16.3",
+            "titulo": "Perturbacdes da personalidade grupo C"
+          }
+        ]
+      }
+    ]
+  },
+  "Reumatologia": {
+    "area": "Reumatologia",
+    "total_capitulos": 15,
+    "capitulos": [
+      {
+        "numero": 1,
+        "titulo": "Mo, D, Go INTRODUCAO E ABORDAGEM AO DOENTE COM ARTRALGIAS",
+        "subareas": [
+          {
+            "codigo": "1.2",
+            "titulo": "Abordagem ao doente com cervicalgias, dorsalgias e lombalgias...............0.0"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "titulo": "ARTROPATIAS DEGENERATIVAS E MECANICAS........csssssssssssssessssseeessseesssnseeeenneees",
+        "subareas": []
+      },
+      {
+        "numero": 3,
+        "titulo": "mp, ,GD ARTRITE REUMATOIDE",
+        "subareas": [
+          {
+            "codigo": "3.2",
+            "titulo": "Evolucao e prognéstico"
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "titulo": "MBB ESPONDILOARTROPAQIAS satin iscetcciesossteestscesuncseceusesersisiccasinsaseatsasesiatessesassectvessis",
+        "subareas": [
+          {
+            "codigo": "4.2",
+            "titulo": "Artrite reativa"
+          },
+          {
+            "codigo": "4.3",
+            "titulo": "Artropatia psoriatica"
+          },
+          {
+            "codigo": "4.4",
+            "titulo": "Artrite associada as Dil (enteropaticas"
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "titulo": "Mp, 0, Go. LUPUS ERITEMATOSO SISTEMICO",
+        "subareas": []
+      },
+      {
+        "numero": 6,
+        "titulo": "wp, D, GD VASCULITE",
+        "subareas": [
+          {
+            "codigo": "6.2",
+            "titulo": "Poliangeite microscépica (MPA)"
+          },
+          {
+            "codigo": "6.3",
+            "titulo": "Granulomatose eosinofilica com poliangeite (sindrome de Churg-Strauss)"
+          },
+          {
+            "codigo": "6.4",
+            "titulo": "Granulomatose com poliangeite (granulomatose de Wegener)"
+          },
+          {
+            "codigo": "6.5",
+            "titulo": "Arterite temporal ou de células gigante:"
+          },
+          {
+            "codigo": "6.6",
+            "titulo": "Arterite de Takayasu"
+          },
+          {
+            "codigo": "6.7",
+            "titulo": "Vasculite leucocitoclastica cutanea"
+          },
+          {
+            "codigo": "6.8",
+            "titulo": "Vasculite de pequenos vasos mediada por imunocomplexos"
+          },
+          {
+            "codigo": "6.10",
+            "titulo": "Doenca de Buerger ou tromboangeite obliterant"
+          },
+          {
+            "codigo": "6.11",
+            "titulo": "Doenca de Kawasaki"
+          },
+          {
+            "codigo": "6.12",
+            "titulo": "Outras vasculites"
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "titulo": "ESCLEROSE SISTEMICA",
+        "subareas": []
+      },
+      {
+        "numero": 8,
+        "titulo": "SINDROME DE SJOGREN",
+        "subareas": []
+      },
+      {
+        "numero": 9,
+        "titulo": "MIOSITES INFLAMATORIAS........sssccssscosscssscsosscsssccssscsssscessscessccnsscensccesscsssersscstssess",
+        "subareas": []
+      },
+      {
+        "numero": 10,
+        "titulo": "DOENCAS MISTAS DO TECIDO CONJUNTIVO..........s:sessssssssessssesesesseensseenseenssesnsess",
+        "subareas": []
+      },
+      {
+        "numero": 11,
+        "titulo": "Mio, 0, P, GD. GOTA E OUTRAS ARTROPATIAS MICROCRISTALINAS",
+        "subareas": [
+          {
+            "codigo": "11.2",
+            "titulo": "Classificagao das hiperuricemias"
+          },
+          {
+            "codigo": "11.3",
+            "titulo": "Rim e gota"
+          },
+          {
+            "codigo": "11.4",
+            "titulo": "Diagndstico"
+          },
+          {
+            "codigo": "11.5",
+            "titulo": "Tratamento"
+          },
+          {
+            "codigo": "11.6",
+            "titulo": "Artrite por depdsito de cristais de DPFC (pirofosfato de calcio di-hidratado"
+          }
+        ]
+      },
+      {
+        "numero": 12,
+        "titulo": "Gp ARTRITE SETICA",
+        "subareas": [
+          {
+            "codigo": "12.2",
+            "titulo": "Artrite gonocdcica"
+          },
+          {
+            "codigo": "12.3",
+            "titulo": "Artrite tuberculosa"
+          },
+          {
+            "codigo": "12.4",
+            "titulo": "Artrite brucelésica"
+          },
+          {
+            "codigo": "12.5",
+            "titulo": "Artrite por espiroquetas"
+          },
+          {
+            "codigo": "12.6",
+            "titulo": "Artrite viral"
+          },
+          {
+            "codigo": "12.7",
+            "titulo": "Artrite micotic"
+          }
+        ]
+      },
+      {
+        "numero": 13,
+        "titulo": "ARTRITE IDIOPATICA JUVENIL E DOENGA DE STILL NO ADULTO",
+        "subareas": [
+          {
+            "codigo": "13.2",
+            "titulo": "Doenca de Still no adulto"
+          }
+        ]
+      },
+      {
+        "numero": 14,
+        "titulo": "DOENCAS AUTO-INFLAMATORIAS ..........ccsssesssessssessesssesnesssessssnssensscensscensecesseeneeses",
+        "subareas": []
+      },
+      {
+        "numero": 15,
+        "titulo": "OUTRAS DOENCAS REUMATOLOGICAS",
+        "subareas": [
+          {
+            "codigo": "15.2",
+            "titulo": "Artropatia neuropatica de Charcot"
+          },
+          {
+            "codigo": "15.3",
+            "titulo": "Osteoartropatia hipertrofica"
+          },
+          {
+            "codigo": "15.4",
+            "titulo": "Fibromialgia"
+          },
+          {
+            "codigo": "15.5",
+            "titulo": "Polimialgia reumatica"
+          },
+          {
+            "codigo": "15.6",
+            "titulo": "Doencas Osseas metabolicas"
+          }
+        ]
+      }
+    ]
+  },
+  "Urologia": {
+    "area": "Urologia",
+    "total_capitulos": 17,
+    "capitulos": [
+      {
+        "numero": 1,
+        "titulo": "(cl]",
+        "subareas": [
+          {
+            "codigo": "1.1",
+            "titulo": "Embriologia"
+          },
+          {
+            "codigo": "1.2",
+            "titulo": "Estrutura e relacoes anatomicas"
+          },
+          {
+            "codigo": "1.3",
+            "titulo": "Exames de imagiologia no estudo do trato urinario"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "titulo": "{cll",
+        "subareas": [
+          {
+            "codigo": "2.1",
+            "titulo": "Inervacao e anatomia"
+          },
+          {
+            "codigo": "2.2",
+            "titulo": "Ciclo de miccao"
+          },
+          {
+            "codigo": "2.3",
+            "titulo": "Lesdes medulares"
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "titulo": "B",
+        "subareas": [
+          {
+            "codigo": "3.1",
+            "titulo": "Incontinéncia de urgéncia"
+          },
+          {
+            "codigo": "3.2",
+            "titulo": "Incontinéncia de esforco"
+          },
+          {
+            "codigo": "3.3",
+            "titulo": "Incontinéncia urinaria por regurgitacao"
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "titulo": "c",
+        "subareas": [
+          {
+            "codigo": "4.1",
+            "titulo": "Disfuncao eré'"
+          },
+          {
+            "codigo": "4.2",
+            "titulo": "Priapismo"
+          },
+          {
+            "codigo": "4.3",
+            "titulo": "Doenca de Peyronie"
+          },
+          {
+            "codigo": "4.4",
+            "titulo": "Ejaculacado pecoce"
+          },
+          {
+            "codigo": "4.5",
+            "titulo": "Infertilidade masculina"
+          },
+          {
+            "codigo": "4.6",
+            "titulo": "Doengas do cordao espermatico"
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "titulo": "A",
+        "subareas": [
+          {
+            "codigo": "5.1",
+            "titulo": "Etiologia e patogénese"
+          },
+          {
+            "codigo": "5.2",
+            "titulo": "Diagnostico"
+          },
+          {
+            "codigo": "5.3",
+            "titulo": "Classificagao"
+          },
+          {
+            "codigo": "5.4",
+            "titulo": "Situacdes especiais"
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "titulo": "Cistite intersticial 0 0 1 |",
+        "subareas": []
+      },
+      {
+        "numero": 7,
+        "titulo": "A",
+        "subareas": [
+          {
+            "codigo": "7.1",
+            "titulo": "Epidemiologia"
+          },
+          {
+            "codigo": "7.3",
+            "titulo": "Etiologia"
+          },
+          {
+            "codigo": "7.4",
+            "titulo": "Avaliacao do doente com litiase urinari"
+          },
+          {
+            "codigo": "7.5",
+            "titulo": "Terapéutica"
+          }
+        ]
+      },
+      {
+        "numero": 8,
+        "titulo": "A",
+        "subareas": [
+          {
+            "codigo": "8.1",
+            "titulo": "Urossépsis"
+          },
+          {
+            "codigo": "8.2",
+            "titulo": "Gangrena de Fournier"
+          },
+          {
+            "codigo": "8.3",
+            "titulo": "Torcdo do Cordao Espermatic"
+          }
+        ]
+      },
+      {
+        "numero": 9,
+        "titulo": "NEOPLASIAS DA PROSTATA",
+        "subareas": [
+          {
+            "codigo": "9.1",
+            "titulo": "Introducaéo"
+          },
+          {
+            "codigo": "9.2",
+            "titulo": "Hiperplasia benigna da prostata .........ccccccceccseeeseeessessssssseseseecseseseerseseeeeeseenseeees"
+          }
+        ]
+      },
+      {
+        "numero": 10,
+        "titulo": "A",
+        "subareas": [
+          {
+            "codigo": "10.1",
+            "titulo": "Rastreio e diagndstico precoce"
+          },
+          {
+            "codigo": "10.2",
+            "titulo": "Cancro da préstata localizado"
+          },
+          {
+            "codigo": "10.3",
+            "titulo": "Cancro da préstata localmente avancado"
+          },
+          {
+            "codigo": "10.4",
+            "titulo": "Cancro da préstata metastatico"
+          }
+        ]
+      },
+      {
+        "numero": 11,
+        "titulo": "A",
+        "subareas": [
+          {
+            "codigo": "11.1",
+            "titulo": "Tumor da bexiga"
+          },
+          {
+            "codigo": "11.2",
+            "titulo": "Tumores do alto aparelho urinari"
+          }
+        ]
+      },
+      {
+        "numero": 12,
+        "titulo": "A",
+        "subareas": [
+          {
+            "codigo": "12.1",
+            "titulo": "Carcinoma de célu"
+          },
+          {
+            "codigo": "12.2",
+            "titulo": "Tumores renais com comportamento benigno"
+          },
+          {
+            "codigo": "12.3",
+            "titulo": "Quistos renais"
+          }
+        ]
+      },
+      {
+        "numero": 13,
+        "titulo": "> NEOPLASIAS DO TESTICULO",
+        "subareas": [
+          {
+            "codigo": "13.2",
+            "titulo": "Tumores das células germinativas"
+          },
+          {
+            "codigo": "13.3",
+            "titulo": "Tumores de células ndo germinativos"
+          },
+          {
+            "codigo": "13.4",
+            "titulo": "Metastase e envolvimento secundario"
+          }
+        ]
+      },
+      {
+        "numero": 14,
+        "titulo": "ASPETOS CIRURGICOS DO TRANSPLANTE RENA\\",
+        "subareas": [
+          {
+            "codigo": "14.2",
+            "titulo": "Complicagdes ciruirgicas"
+          }
+        ]
+      },
+      {
+        "numero": 15,
+        "titulo": "TRAUMA GENITO-URINARIO",
+        "subareas": [
+          {
+            "codigo": "15.2",
+            "titulo": "Traumatismo ureteral"
+          },
+          {
+            "codigo": "15.3",
+            "titulo": "Traumatismo vesical"
+          },
+          {
+            "codigo": "15.4",
+            "titulo": "Traumatismo uretral"
+          },
+          {
+            "codigo": "15.5",
+            "titulo": "Traumatismo genital"
+          }
+        ]
+      },
+      {
+        "numero": 16,
+        "titulo": "ESTENOSE DA'URETRA: NO HOMEM sissscssssassussiscsssasovessessstesisesssvestensivesustevectevouesben",
+        "subareas": []
+      },
+      {
+        "numero": 17,
+        "titulo": "CARCINOMA DO PENIS",
+        "subareas": []
+      }
+    ]
+  }
+}

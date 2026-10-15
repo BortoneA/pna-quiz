@@ -1,0 +1,13 @@
+{
+  "name": "pna-sync-scripts",
+  "version": "1.0.0",
+  "description": "Scripts de sincronização do PNA Quiz com Firebase Firestore",
+  "main": "sync_to_firebase.js",
+  "scripts": {
+    "sync": "node sync_to_firebase.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "firebase-admin": "^12.0.0"
+  }
+}

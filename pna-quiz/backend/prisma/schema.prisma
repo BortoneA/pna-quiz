@@ -1,0 +1,249 @@
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider      = "prisma-client-js"
+  binaryTargets = ["native", "debian-openssl-3.0.x"]
+}
+
+model Area {
+  id        Int        @id @default(autoincrement())
+  nome      String     @unique
+  capitulos Capitulo[]
+  createdAt DateTime   @default(now()) @map("created_at")
+  updatedAt DateTime   @default(now()) @updatedAt @map("updated_at")
+
+  @@map("areas")
+}
+
+model Capitulo {
+  id        Int       @id @default(autoincrement())
+  areaId    Int       @map("area_id")
+  numero    Int
+  nome      String
+  area      Area      @relation(fields: [areaId], references: [id], onDelete: Cascade)
+  subareas  Subarea[]
+  createdAt DateTime  @default(now()) @map("created_at")
+  updatedAt DateTime  @default(now()) @updatedAt @map("updated_at")
+
+  @@unique([areaId, numero])
+  @@map("capitulos")
+}
+
+model Subarea {
+  id         Int        @id @default(autoincrement())
+  capituloId Int        @map("capitulo_id")
+  codigo     String
+  nome       String
+  capitulo   Capitulo   @relation(fields: [capituloId], references: [id], onDelete: Cascade)
+  questoes   Questao[]
+  createdAt  DateTime   @default(now()) @map("created_at")
+  updatedAt  DateTime   @default(now()) @updatedAt @map("updated_at")
+
+  @@unique([capituloId, codigo])
+  @@map("subareas")
+}
+
+model Questao {
+  id                  String             @id
+  numero              Int?
+  parte               String?
+  anoDaProva          Int?               @map("ano_da_prova")
+  nivelDeDificuldade  String?            @map("nivel_de_dificuldade")
+  enunciado           String
+  respostaCorreta     String             @map("resposta_correta") @db.Char(1)
+  explicacao          String?
+  doencaOuConjunto    String?            @map("doenca_ou_conjunto_de_doencas")
+  subareaId           Int?               @map("subarea_id")
+  subarea             Subarea?           @relation(fields: [subareaId], references: [id], onDelete: SetNull)
+  alternativas        Alternativa[]
+  ativa               Boolean            @default(true)
+  versao              Int                @default(1)
+  createdAt           DateTime           @default(now()) @map("created_at")
+  updatedAt           DateTime           @default(now()) @updatedAt @map("updated_at")
+  quizQuestoes        QuizQuestao[]
+  tentativaRespostas  TentativaResposta[]
+  repeticaoEspacada   RepeticaoEspacada?
+
+  @@map("questoes")
+}
+
+model Alternativa {
+  id        Int     @id @default(autoincrement())
+  questaoId String  @map("questao_id")
+  letra     String  @db.Char(1)
+  texto     String
+  questao   Questao @relation(fields: [questaoId], references: [id], onDelete: Cascade)
+
+  @@unique([questaoId, letra])
+  @@map("alternativas")
+}
+
+model Quiz {
+  id                    String        @id @default(uuid()) @db.Uuid
+  titulo                String
+  descricao             String?
+  tipo                  String        // 'simulado', 'personalizado', 'revisao_erros'
+  filtroConfig          Json?         @map("filtro_config")
+  tempoLimiteMin        Int?          @map("tempo_limite_min")
+  ordemAleatoria        Boolean       @default(false) @map("ordem_aleatoria")
+  alternativasAleatorias Boolean      @default(false) @map("alternativas_aleatorias")
+  status                String        @default("publicado")
+  quizQuestoes          QuizQuestao[]
+  tentativas            Tentativa[]
+  createdAt             DateTime      @default(now()) @map("created_at")
+  updatedAt             DateTime      @default(now()) @updatedAt @map("updated_at")
+
+  @@map("quizzes")
+}
+
+model QuizQuestao {
+  quizId    String  @map("quiz_id") @db.Uuid
+  questaoId String  @map("questao_id")
+  ordem     Int
+  quiz      Quiz    @relation(fields: [quizId], references: [id], onDelete: Cascade)
+  questao   Questao @relation(fields: [questaoId], references: [id], onDelete: Cascade)
+
+  @@id([quizId, questaoId])
+  @@map("quiz_questoes")
+}
+
+model Tentativa {
+  id                String              @id @default(uuid()) @db.Uuid
+  quizId            String?             @map("quiz_id") @db.Uuid
+  quiz              Quiz?               @relation(fields: [quizId], references: [id], onDelete: SetNull)
+  status            String              @default("em_andamento") // 'em_andamento', 'concluido'
+  totalQuestoes     Int                 @map("total_questoes")
+  totalAcertos      Int                 @default(0) @map("total_acertos")
+  totalErros        Int                 @default(0) @map("total_erros")
+  tempoTotalSeg     Int                 @default(0) @map("tempo_total_seg")
+  xpGanho           Int                 @default(0) @map("xp_ganho")
+  iniciadoEm        DateTime            @default(now()) @map("iniciado_em")
+  concluidoEm       DateTime?           @map("concluido_em")
+  updatedAt         DateTime            @default(now()) @updatedAt @map("updated_at")
+  respostas         TentativaResposta[]
+
+  @@map("tentativas")
+}
+
+model TentativaResposta {
+  id               String    @id @default(uuid()) @db.Uuid
+  tentativaId      String    @map("tentativa_id") @db.Uuid
+  questaoId        String    @map("questao_id")
+  versaoQuestao    Int       @default(1) @map("versao_questao")
+  respostaEscolhida String    @map("resposta_escolhida") @db.Char(1)
+  correta          Boolean
+  tempoRespostaSeg Int?      @default(0) @map("tempo_resposta_seg")
+  marcadaParaRevisao Boolean @default(false) @map("marcada_para_revisao")
+  respondidaEm     DateTime  @default(now()) @map("respondida_em")
+  tentativa        Tentativa @relation(fields: [tentativaId], references: [id], onDelete: Cascade)
+  questao          Questao   @relation(fields: [questaoId], references: [id], onDelete: Cascade)
+
+  @@unique([tentativaId, questaoId])
+  @@map("tentativa_respostas")
+}
+
+model RepeticaoEspacada {
+  questaoId     String   @id @map("questao_id")
+  questao       Questao  @relation(fields: [questaoId], references: [id], onDelete: Cascade)
+  repeticoes    Int      @default(0)
+  fatorFacilidade Float  @default(2.5) @map("fator_facilidade")
+  intervaloDias Int      @default(0) @map("intervalo_dias")
+  proximaRevisao DateTime @default(dbgenerated("CURRENT_DATE")) @map("proxima_revisao")
+  totalAcertos  Int      @default(0) @map("total_acertos")
+  totalErros    Int      @default(0) @map("total_erros")
+  nivelDominio  String   @default("nao_conhecida") @map("nivel_dominio")
+  updatedAt     DateTime @default(now()) @updatedAt @map("updated_at")
+
+  @@map("repeticao_espacada")
+}
+
+model ProgressoGeral {
+  id                  Int       @id @default(1)
+  xpTotal             BigInt    @default(0) @map("xp_total")
+  nivelAtual          Int       @default(1) @map("nivel_atual")
+  sequenciaDias       Int       @default(0) @map("sequencia_dias")
+  maiorSequencia      Int       @default(0) @map("maior_sequencia")
+  ultimoDiaEstudo     DateTime? @map("ultimo_dia_estudo")
+  metaDiariaQuestoes  Int       @default(20) @map("meta_diaria_questoes")
+  tempoTotalEstudado  Int       @default(0) @map("tempo_total_estudado")
+  updatedAt           DateTime  @default(now()) @updatedAt @map("updated_at")
+
+  @@map("progresso_geral")
+}
+
+model XpEvento {
+  id                String   @id @default(uuid()) @db.Uuid
+  chaveIdempotencia String   @unique @map("chave_idempotencia")
+  tipoEvento        String   @map("tipo_evento")
+  xpPontos          Int      @map("xp_pontos")
+  detalhes          Json?
+  createdAt         DateTime @default(now()) @map("created_at")
+
+  @@map("xp_eventos")
+}
+
+model Conquista {
+  codigo      String                         @id
+  titulo      String
+  descricao   String
+  categoria   String
+  icone       String
+  metaValor   Int                            @map("meta_valor")
+  xpRecompensa Int                           @default(0) @map("xp_recompensa")
+  desbloqueios ConquistaDesbloqueada[]
+
+  @@map("conquistas")
+}
+
+model ConquistaDesbloqueada {
+  conquistaCodigo String    @id @map("conquista_codigo")
+  conquista       Conquista @relation(fields: [conquistaCodigo], references: [codigo], onDelete: Cascade)
+  desbloqueadaEm  DateTime  @default(now()) @map("desbloqueada_em")
+
+  @@map("conquistas_desbloqueadas")
+}
+
+model Missao {
+  id           String            @id @default(uuid()) @db.Uuid
+  codigo       String            @unique
+  titulo       String
+  descricao    String
+  tipo         String
+  metaValor    Int               @map("meta_valor")
+  xpRecompensa Int               @default(0) @map("xp_recompensa")
+  iniciaEm     DateTime?         @map("inicia_em")
+  terminaEm    DateTime?         @map("termina_em")
+  ativa        Boolean           @default(true)
+  createdAt    DateTime          @default(now()) @map("created_at")
+  progresso    ProgressoMissao?
+
+  @@map("missoes")
+}
+
+model ProgressoMissao {
+  missaoId       String    @id @map("missao_id") @db.Uuid
+  missao         Missao    @relation(fields: [missaoId], references: [id], onDelete: Cascade)
+  progressoAtual Int       @default(0) @map("progresso_atual")
+  concluada      Boolean   @default(false)
+  concluadaEm    DateTime? @map("concluada_em")
+  updatedAt      DateTime  @default(now()) @updatedAt @map("updated_at")
+
+  @@map("progresso_missoes")
+}
+
+model EventoSincronizacao {
+  id             String   @id @default(uuid()) @db.Uuid
+  tipoEvento     String   @map("tipo_evento")
+  entidadeTipo   String   @map("entidade_tipo")
+  entidadeId     String   @map("entidade_id")
+  versaoEntidade Int?     @map("versao_entidade")
+  sequencia      BigInt   @unique @default(autoincrement())
+  origem         String?
+  payload        Json?
+  createdAt      DateTime @default(now()) @map("created_at")
+
+  @@map("eventos_sincronizacao")
+}
